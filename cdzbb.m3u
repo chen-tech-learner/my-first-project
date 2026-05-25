@@ -811,16 +811,12 @@ http://47.97.252.137:8088/daili/cctv9y.m3u8?line=2|Referer=https://tv.cctv.com/
 http://47.97.252.137:8088/daili/cctvf.m3u8?line=0|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="国际频道",西班牙语
 http://47.97.252.137:8088/daili/cctve.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="国际频道",西班牙语
-http://47.97.252.137:8088/daili/cctve.m3u8?line=1|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="国际频道",阿拉伯语
 http://47.97.252.137:8088/daili/cctva.m3u8?line=0|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="国际频道",阿拉伯语
 http://47.97.252.137:8088/daili/cctva.m3u8?line=1|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="国际频道",俄罗斯语
 http://47.97.252.137:8088/daili/cctvr.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="国际频道",俄罗斯语
-http://47.97.252.137:8088/daili/cctvr.m3u8?line=2|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="其他频道",中央新影老故事
 http://47.97.252.137:8088/daili/lgs.m3u8?line=0|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="其他频道",中央新影老故事
@@ -859,80 +855,78 @@ http://47.97.252.137:8088/daili/zqjy.m3u8?line=1|Referer=https://tv.cctv.com/
 http://47.97.252.137:8088/daili/zqjy.m3u8?line=2|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="其他频道",书画频道
 http://47.97.252.137:8088/daili/shpd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道",中国天气
-http://47.97.252.137:8088/daili/zgqx.m3u8?line=0|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.110.54.118:866/hls/24/index.m3u8
+http://36.110.54.118:866/hls/24/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://62.234.188.159/ysp.php?id=hnws
+http://62.234.188.159/ysp.php?id=hnws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://36.110.54.118:866/hls/30/index.m3u8
+http://36.110.54.118:866/hls/30/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://62.234.188.159/ysp.php?id=zjws
+http://62.234.188.159/ysp.php?id=zjws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://62.234.188.159/ysp.php?id=jsws
+http://62.234.188.159/ysp.php?id=jsws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://36.110.54.118:866/hls/27/index.m3u8
+http://36.110.54.118:866/hls/27/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://62.234.188.159/ysp.php?id=ahws
+http://62.234.188.159/ysp.php?id=ahws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://62.234.188.159/ysp.php?id=lnws
+http://62.234.188.159/ysp.php?id=lnws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://62.234.188.159/ysp.php?id=gdws
+http://62.234.188.159/ysp.php?id=gdws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://36.110.54.118:866/hls/32/index.m3u8
+http://36.110.54.118:866/hls/32/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://36.110.54.118:866/hls/14/index.m3u8
+http://36.110.54.118:866/hls/14/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://36.110.54.118:866/hls/28/index.m3u8
+http://36.110.54.118:866/hls/28/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://62.234.188.159/ysp.php?id=szws
+http://62.234.188.159/ysp.php?id=szws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://36.110.54.118:866/hls/26/index.m3u8
+http://36.110.54.118:866/hls/26/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://62.234.188.159/ysp.php?id=scws
+http://62.234.188.159/ysp.php?id=scws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://62.234.188.159/ysp.php?id=dnws
+http://62.234.188.159/ysp.php?id=dnws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://62.234.188.159/ysp.php?id=gzws
+http://62.234.188.159/ysp.php?id=gzws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://62.234.188.159/ysp.php?id=hljws
+http://62.234.188.159/ysp.php?id=hljws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://36.110.54.118:866/hls/25/index.m3u8
+http://36.110.54.118:866/hls/25/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://62.234.188.159/ysp.php?id=ynws
+http://62.234.188.159/ysp.php?id=ynws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://62.234.188.159/ysp.php?id=sxws
+http://62.234.188.159/ysp.php?id=sxws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://62.234.188.159/ysp.php?id=nmgws
+http://62.234.188.159/ysp.php?id=nmgws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://62.234.188.159/ysp.php?id=nxws
+http://62.234.188.159/ysp.php?id=nxws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://62.234.188.159/ysp.php?id=qhws
+http://62.234.188.159/ysp.php?id=qhws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://62.234.188.159/ysp.php?id=xjws
+http://62.234.188.159/ysp.php?id=xjws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://62.234.188.159/ysp.php?id=gsws
+http://62.234.188.159/ysp.php?id=gsws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://62.234.188.159/ysp.php?id=xzws
+http://62.234.188.159/ysp.php?id=xzws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://62.234.188.159/ysp.php?id=hbws
+http://62.234.188.159/ysp.php?id=hbws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://36.110.54.118:866/hls/33/index.m3u8
+http://36.110.54.118:866/hls/33/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://62.234.188.159/ysp.php?id=jlws
+http://62.234.188.159/ysp.php?id=jlws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://62.234.188.159/ysp.php?id=jxws
+http://62.234.188.159/ysp.php?id=jxws|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",金鹰纪实
-http://36.110.54.118:866/hls/38/index.m3u8
+http://36.110.54.118:866/hls/38/index.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://47.97.252.137:8088/daili/hnwshd.m3u8?line=0|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://47.97.252.137:8088/apptv/hnws.m3u8
+http://47.97.252.137:8088/apptv/hnws.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://207.56.13.146:8081/cdnlive/hnws.m3u8
+http://207.56.13.146:8081/cdnlive/hnws.m3u8|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://47.97.252.137:8088/daili/hnwshd.m3u8?line=1|Referer=https://tv.cctv.com/
 #EXTINF:-1 group-title="卫视频道",湖南卫视
@@ -983,801 +977,781 @@ http://47.97.252.137:8088/daili/zjwshd.m3u8?line=0|Referer=https://tv.cctv.com/
 http://47.97.252.137:8088/apptv/zjws.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://47.97.252.137:8088/daili/zjwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://47.97.252.137:8088/daili/zjwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://47.97.252.137:8088/tvlive/zjwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://47.97.252.137:8088/tvlive/zjwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://47.97.252.137:8088/tvlive/zjwshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://47.97.252.137:8088/tvlive/zjwshd.m3u8?node=7
-#EXTINF:-1 group-title="卫视频道" ,浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://47.97.252.137:8088/tvlive/zjwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://47.97.252.137:8088/tvlive/zjwshd.m3u8?node=12|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/daili/dfwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/apptv/dfws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://207.56.13.146:8081/cdnlive/dfws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/daili/dfwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/daili/dfwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/tvlive/dfwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/tvlive/dfwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/tvlive/dfwshd.m3u8?node=7
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/tvlive/dfwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://47.97.252.137:8088/tvlive/dfwshd.m3u8?node=12|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广东卫视
-http://47.97.252.137:8088/daili/gdwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广东卫视
+#EXTINF:-1 group-title="卫视频道",广东卫视
 http://207.56.13.146:8081/cdnlive/gdws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,广东卫视
+#EXTINF:-1 group-title="卫视频道",广东卫视
 http://47.97.252.137:8088/daili/gdwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广东卫视
+#EXTINF:-1 group-title="卫视频道",广东卫视
 http://47.97.252.137:8088/daili/gdwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广东卫视
+#EXTINF:-1 group-title="卫视频道",广东卫视
 http://47.97.252.137:8088/tvlive/gdwshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广东卫视
+#EXTINF:-1 group-title="卫视频道",广东卫视
 http://47.97.252.137:8088/tvlive/gdwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广东卫视
+#EXTINF:-1 group-title="卫视频道",广东卫视
 http://47.97.252.137:8088/tvlive/gdwshd.m3u8?node=12|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://47.97.252.137:8088/daili/szwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://207.56.13.146:8081/cdnlive/szws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://47.97.252.137:8088/daili/szwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://47.97.252.137:8088/daili/szwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://47.97.252.137:8088/tvlive/szwshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://47.97.252.137:8088/tvlive/szwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://47.97.252.137:8088/tvlive/szwshd.m3u8?node=12|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京卫视
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://47.97.252.137:8088/daili/bjwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京卫视
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://207.56.13.146:8081/cdnlive/bjws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,北京卫视
-http://47.97.252.137:8088/daili/bjwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京卫视
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://47.97.252.137:8088/daili/bjwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京卫视
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://47.97.252.137:8088/tvlive/bjwshd.m3u8?node=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京卫视
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://47.97.252.137:8088/tvlive/bjwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,天津卫视
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://47.97.252.137:8088/daili/tjwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,天津卫视
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://207.56.13.146:8081/cdnlive/tjws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,天津卫视
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://47.97.252.137:8088/daili/tjwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,天津卫视
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://47.97.252.137:8088/tvlive/tjwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,天津卫视
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://47.97.252.137:8088/tvlive/tjwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,天津卫视
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://47.97.252.137:8088/tvlive/tjwshd.m3u8?node=11|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,山东卫视
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://47.97.252.137:8088/daili/sdwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,山东卫视
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://207.56.13.146:8081/cdnlive/sdws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,山东卫视
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://47.97.252.137:8088/daili/sdwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,山东卫视
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://47.97.252.137:8088/tvlive/sdwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,山东卫视
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://47.97.252.137:8088/tvlive/sdwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,山东卫视
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://47.97.252.137:8088/tvlive/sdwshd.m3u8?node=11|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://47.97.252.137:8088/daili/hbwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://207.56.13.146:8081/cdnlive/hbws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://47.97.252.137:8088/daili/hbwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://47.97.252.137:8088/tvlive/hbwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://47.97.252.137:8088/tvlive/hbwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://47.97.252.137:8088/tvlive/hbwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://47.97.252.137:8088/tvlive/hbwshd.m3u8?node=12|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,河北卫视
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://47.97.252.137:8088/daili/hewshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,河北卫视
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://207.56.13.146:8081/cdnlive/hews.m3u8
-#EXTINF:-1 group-title="卫视频道" ,河北卫视
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://47.97.252.137:8088/daili/hewshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,河北卫视
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://47.97.252.137:8088/daili/hewshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,河北卫视
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://47.97.252.137:8088/tvlive/hewshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,河北卫视
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://47.97.252.137:8088/tvlive/hewshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,贵州卫视
+#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://47.97.252.137:8088/daili/gzwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,贵州卫视
+#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://207.56.13.146:8081/cdnlive/gzws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,贵州卫视
+#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://47.97.252.137:8088/daili/gzwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,贵州卫视
+#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://47.97.252.137:8088/tvlive/gzwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,贵州卫视
+#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://47.97.252.137:8088/tvlive/gzwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,贵州卫视
+#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://47.97.252.137:8088/tvlive/gzwshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://47.97.252.137:8088/daili/hljwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://207.56.13.146:8081/cdnlive/hljws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://47.97.252.137:8088/daili/hljwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://47.97.252.137:8088/tvlive/hljwshd.m3u8?node=1line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://47.97.252.137:8088/tvlive/hljwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://47.97.252.137:8088/tvlive/hljwshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,大湾区卫视
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://47.97.252.137:8088/daili/nfws.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,大湾区卫视
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://47.97.252.137:8088/daili/nfws.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,大湾区卫视
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://47.97.252.137:8088/daili/nfws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,大湾区卫视
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://47.97.252.137:8088/tvlive/nfws.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,大湾区卫视
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://47.97.252.137:8088/tvlive/nfws.m3u8?node=6
-#EXTINF:-1 group-title="卫视频道" ,大湾区卫视
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://47.97.252.137:8088/tvlive/nfws.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,山西卫视
+#EXTINF:-1 group-title="卫视频道",山西卫视
 http://207.56.13.146:8081/cdnlive/sxws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,山西卫视
+#EXTINF:-1 group-title="卫视频道",山西卫视
 http://47.97.252.137:8088/daili/sxws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,山西卫视
+#EXTINF:-1 group-title="卫视频道",山西卫视
 http://47.97.252.137:8088/tvlive/sxwshd.m3u8?node=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,山西卫视
+#EXTINF:-1 group-title="卫视频道",山西卫视
 http://47.97.252.137:8088/tvlive/sxwshd.m3u8?node=11|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://47.97.252.137:8088/daili/lnwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://207.56.13.146:8081/cdnlive/lnws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://47.97.252.137:8088/daili/lnwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://47.97.252.137:8088/tvlive/lnwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://47.97.252.137:8088/tvlive/lnwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://47.97.252.137:8088/tvlive/lnwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,安徽卫视
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://47.97.252.137:8088/daili/ahwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,安徽卫视
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://207.56.13.146:8081/cdnlive/ahws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,安徽卫视
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://47.97.252.137:8088/daili/ahwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,安徽卫视
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://47.97.252.137:8088/daili/ahwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,安徽卫视
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://47.97.252.137:8088/tvlive/ahwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,安徽卫视
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://47.97.252.137:8088/tvlive/ahwshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东南卫视
+#EXTINF:-1 group-title="卫视频道",东南卫视
 http://47.97.252.137:8088/daili/dnwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东南卫视
+#EXTINF:-1 group-title="卫视频道",东南卫视
 http://207.56.13.146:8081/cdnlive/dnws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,东南卫视
+#EXTINF:-1 group-title="卫视频道",东南卫视
 http://47.97.252.137:8088/daili/dnwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东南卫视
+#EXTINF:-1 group-title="卫视频道",东南卫视
 http://47.97.252.137:8088/tvlive/dnwshd.m3u8?node=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东南卫视
+#EXTINF:-1 group-title="卫视频道",东南卫视
 http://47.97.252.137:8088/tvlive/dnwshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,东南卫视
+#EXTINF:-1 group-title="卫视频道",东南卫视
 http://47.97.252.137:8088/tvlive/dnwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,青海卫视
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://47.97.252.137:8088/daili/qhws.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,青海卫视
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://207.56.13.146:8081/cdnlive/qhws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,青海卫视
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://47.97.252.137:8088/daili/qhws.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,青海卫视
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://47.97.252.137:8088/tvlive/qhws.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,青海卫视
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://47.97.252.137:8088/tvlive/qhws.m3u8?node=6
-#EXTINF:-1 group-title="卫视频道" ,云南卫视
+#EXTINF:-1 group-title="卫视频道",云南卫视
 http://47.97.252.137:8088/daili/ynwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,云南卫视
+#EXTINF:-1 group-title="卫视频道",云南卫视
 http://207.56.13.146:8081/cdnlive/ynws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,云南卫视
+#EXTINF:-1 group-title="卫视频道",云南卫视
 http://47.97.252.137:8088/daili/ynwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,云南卫视
+#EXTINF:-1 group-title="卫视频道",云南卫视
 http://47.97.252.137:8088/tvlive/ynwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,云南卫视
+#EXTINF:-1 group-title="卫视频道",云南卫视
 http://47.97.252.137:8088/tvlive/ynwshd.m3u8?node=8
-#EXTINF:-1 group-title="卫视频道" ,江西卫视
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://47.97.252.137:8088/daili/jxwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,江西卫视
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://207.56.13.146:8081/cdnlive/jxws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,江西卫视
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://47.97.252.137:8088/daili/jxwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,江西卫视
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://47.97.252.137:8088/daili/jxwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,江西卫视
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://47.97.252.137:8088/tvlive/jxwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,江西卫视
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://47.97.252.137:8088/tvlive/jxwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,江西卫视
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://47.97.252.137:8088/daili/hawshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,河南卫视
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://207.56.13.146:8081/cdnlive/haws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,河南卫视
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://47.97.252.137:8088/daili/hawshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,河南卫视
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://47.97.252.137:8088/daili/hawshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,河南卫视
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://47.97.252.137:8088/tvlive/hawshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,河南卫视
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://47.97.252.137:8088/tvlive/hawshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,河南卫视
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://47.97.252.137:8088/tvlive/hawshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,陕西卫视
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://47.97.252.137:8088/daili/snwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,陕西卫视
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://207.56.13.146:8081/cdnlive/snws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,陕西卫视
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://47.97.252.137:8088/daili/snwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,陕西卫视
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://47.97.252.137:8088/tvlive/snwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,陕西卫视
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://47.97.252.137:8088/tvlive/snwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,陕西卫视
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://47.97.252.137:8088/tvlive/snwshd.m3u8?node=6
-#EXTINF:-1 group-title="卫视频道" ,吉林卫视
+#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://47.97.252.137:8088/daili/jlwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,吉林卫视
+#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://207.56.13.146:8081/cdnlive/jlws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,吉林卫视
+#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://47.97.252.137:8088/daili/jlwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,吉林卫视
+#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://47.97.252.137:8088/tvlive/jlwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,吉林卫视
+#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://47.97.252.137:8088/tvlive/jlwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,吉林卫视
+#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://47.97.252.137:8088/tvlive/jlwshd.m3u8?node=8
-#EXTINF:-1 group-title="卫视频道" ,广西卫视
+#EXTINF:-1 group-title="卫视频道",广西卫视
 http://47.97.252.137:8088/daili/gxwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广西卫视
+#EXTINF:-1 group-title="卫视频道",广西卫视
 http://207.56.13.146:8081/cdnlive/gxws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,广西卫视
+#EXTINF:-1 group-title="卫视频道",广西卫视
 http://47.97.252.137:8088/daili/gxwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广西卫视
+#EXTINF:-1 group-title="卫视频道",广西卫视
 http://47.97.252.137:8088/tvlive/gxwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,广西卫视
+#EXTINF:-1 group-title="卫视频道",广西卫视
 http://47.97.252.137:8088/tvlive/gxwshd.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,广西卫视
+#EXTINF:-1 group-title="卫视频道",广西卫视
 http://47.97.252.137:8088/tvlive/gxwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://47.97.252.137:8088/daili/scwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://207.56.13.146:8081/cdnlive/scws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://47.97.252.137:8088/daili/scwshd.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://47.97.252.137:8088/tvlive/scwshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://47.97.252.137:8088/tvlive/scwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://47.97.252.137:8088/tvlive/scwshd.m3u8?node=11|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,甘肃卫视
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://47.97.252.137:8088/daili/gswshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,甘肃卫视
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://207.56.13.146:8081/cdnlive/gsws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,甘肃卫视
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://47.97.252.137:8088/daili/gswshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,甘肃卫视
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://47.97.252.137:8088/tvlive/gswshd.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,甘肃卫视
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://47.97.252.137:8088/tvlive/gswshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,甘肃卫视
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://47.97.252.137:8088/tvlive/gswshd.m3u8?node=8
-#EXTINF:-1 group-title="卫视频道" ,重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://47.97.252.137:8088/daili/cqwshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://207.56.13.146:8081/cdnlive/cqws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://47.97.252.137:8088/daili/cqwshd.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://47.97.252.137:8088/tvlive/cqwshd.m3u8?node=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://47.97.252.137:8088/tvlive/cqwshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://47.97.252.137:8088/tvlive/cqwshd.m3u8?node=9|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,海南卫视
+#EXTINF:-1 group-title="卫视频道",海南卫视
 http://47.97.252.137:8088/daili/lywshd.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,海南卫视
+#EXTINF:-1 group-title="卫视频道",海南卫视
 http://207.56.13.146:8081/cdnlive/lyws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,海南卫视
+#EXTINF:-1 group-title="卫视频道",海南卫视
 http://47.97.252.137:8088/tvlive/lywshd.m3u8?node=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,海南卫视
+#EXTINF:-1 group-title="卫视频道",海南卫视
 http://47.97.252.137:8088/tvlive/lywshd.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,西藏卫视
+#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://47.97.252.137:8088/daili/xzws.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,西藏卫视
+#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://207.56.13.146:8081/cdnlive/xzws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,西藏卫视
+#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://47.97.252.137:8088/tvlive/xzws.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,西藏卫视
+#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://47.97.252.137:8088/tvlive/xzws.m3u8?node=6
-#EXTINF:-1 group-title="卫视频道" ,内蒙古卫视
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://47.97.252.137:8088/daili/nmgws.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,内蒙古卫视
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://207.56.13.146:8081/cdnlive/nmgws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,内蒙古卫视
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://47.97.252.137:8088/daili/nmgws.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,内蒙古卫视
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://47.97.252.137:8088/daili/nmgws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,内蒙古卫视
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://47.97.252.137:8088/tvlive/nmgws.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,内蒙古卫视
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://47.97.252.137:8088/tvlive/nmgws.m3u8?node=11|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,宁夏卫视
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://207.56.13.146:8081/cdnlive/nxws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,宁夏卫视
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://47.97.252.137:8088/daili/nxws.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,宁夏卫视
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://47.97.252.137:8088/daili/nxws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,宁夏卫视
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://47.97.252.137:8088/tvlive/nxws.m3u8?node=11|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,新疆卫视
+#EXTINF:-1 group-title="卫视频道",新疆卫视
 http://47.97.252.137:8088/daili/xjws.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,新疆卫视
+#EXTINF:-1 group-title="卫视频道",新疆卫视
 http://207.56.13.146:8081/cdnlive/xjws.m3u8
-#EXTINF:-1 group-title="卫视频道" ,新疆卫视
+#EXTINF:-1 group-title="卫视频道",新疆卫视
 http://47.97.252.137:8088/daili/xjws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,新疆卫视
+#EXTINF:-1 group-title="卫视频道",新疆卫视
 http://47.97.252.137:8088/tvlive/xjws.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,新疆卫视
+#EXTINF:-1 group-title="卫视频道",新疆卫视
 http://47.97.252.137:8088/tvlive/xjws.m3u8?node=11|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,兵团卫视
+#EXTINF:-1 group-title="卫视频道",兵团卫视
 http://47.97.252.137:8088/daili/btws.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,兵团卫视
+#EXTINF:-1 group-title="卫视频道",兵团卫视
 http://47.97.252.137:8088/daili/btws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,兵团卫视
+#EXTINF:-1 group-title="卫视频道",兵团卫视
 http://47.97.252.137:8088/tvlive/btws.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,兵团卫视
+#EXTINF:-1 group-title="卫视频道",兵团卫视
 http://47.97.252.137:8088/tvlive/btws.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,兵团卫视
+#EXTINF:-1 group-title="卫视频道",兵团卫视
 http://47.97.252.137:8088/tvlive/btws.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,厦门卫视
+#EXTINF:-1 group-title="卫视频道",厦门卫视
 http://47.97.252.137:8088/daili/xmws.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,厦门卫视
+#EXTINF:-1 group-title="卫视频道",厦门卫视
 http://47.97.252.137:8088/daili/xmws.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,厦门卫视
+#EXTINF:-1 group-title="卫视频道",厦门卫视
 http://47.97.252.137:8088/daili/xmws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,厦门卫视
+#EXTINF:-1 group-title="卫视频道",厦门卫视
 http://47.97.252.137:8088/tvlive/xmws.m3u8?node=1
-#EXTINF:-1 group-title="卫视频道" ,厦门卫视
+#EXTINF:-1 group-title="卫视频道",厦门卫视
 http://47.97.252.137:8088/tvlive/xmws.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,厦门卫视
+#EXTINF:-1 group-title="卫视频道",厦门卫视
 http://47.97.252.137:8088/tvlive/xmws.m3u8?node=4|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,海峡卫视
-http://47.97.252.137:8088/daili/hxws.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,三沙卫视
+#EXTINF:-1 group-title="卫视频道",三沙卫视
 http://47.97.252.137:8088/daili/ssws.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,三沙卫视
+#EXTINF:-1 group-title="卫视频道",三沙卫视
 http://47.97.252.137:8088/daili/ssws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,三沙卫视
+#EXTINF:-1 group-title="卫视频道",三沙卫视
 http://47.97.252.137:8088/tvlive/ssws.m3u8?node=3|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,三沙卫视
+#EXTINF:-1 group-title="卫视频道",三沙卫视
 http://47.97.252.137:8088/tvlive/ssws.m3u8?node=11|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,延边卫视
-http://47.97.252.137:8088/daili/ybws.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,延边卫视
-http://47.97.252.137:8088/daili/ybws.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,农林卫视
+#EXTINF:-1 group-title="卫视频道",农林卫视
 http://47.97.252.137:8088/daili/snnl.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,,农林卫视
+#EXTINF:-1 group-title="卫视频道",农林卫视
 http://47.97.252.137:8088/daili/snnl.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,农林卫视
+#EXTINF:-1 group-title="卫视频道",农林卫视
 http://47.97.252.137:8088/daili/snnl.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,西藏藏语
+#EXTINF:-1 group-title="卫视频道",西藏藏语
 http://47.97.252.137:8088/daili/xzzy.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京体育休闲
+#EXTINF:-1 group-title="卫视频道",北京体育休闲
 http://r.xace.fun:4999/udp/239.3.1.243:8000
-#EXTINF:-1 group-title="卫视频道" ,北京国际
+#EXTINF:-1 group-title="卫视频道",北京国际
 http://r.xace.fun:4999/udp/239.3.1.235:8000
-#EXTINF:-1 group-title="卫视频道" ,北京影视
+#EXTINF:-1 group-title="卫视频道",北京影视
 http://r.xace.fun:4999/udp/239.3.1.158:8000
-#EXTINF:-1 group-title="卫视频道" ,,北京文艺
+#EXTINF:-1 group-title="卫视频道",北京文艺
 http://r.xace.fun:4999/udp/239.3.1.242:8000
-#EXTINF:-1 group-title="卫视频道" ,北京新闻
+#EXTINF:-1 group-title="卫视频道",北京新闻
 http://r.xace.fun:4999/udp/239.3.1.159:8000
-#EXTINF:-1 group-title="卫视频道" ,北京生活
+#EXTINF:-1 group-title="卫视频道",北京生活
 http://r.xace.fun:4999/udp/239.3.1.117:8000
-#EXTINF:-1 group-title="卫视频道" ,北京纪实科教
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
 http://r.xace.fun:4999/udp/239.3.1.115:8000
-#EXTINF:-1 group-title="卫视频道" ,北京财经
+#EXTINF:-1 group-title="卫视频道",北京财经
 http://r.xace.fun:4999/udp/239.3.1.116:8000
-#EXTINF:-1 group-title="卫视频道" ,卡酷少儿
+#EXTINF:-1 group-title="卫视频道",卡酷少儿
 http://r.xace.fun:4999/udp/239.3.1.189:8000
-#EXTINF:-1 group-title="卫视频道" ,北京IPTV淘BABY
+#EXTINF:-1 group-title="卫视频道",北京IPTV淘BABY
 http://r.xace.fun:4999/udp/239.3.1.238:8001
-#EXTINF:-1 group-title="卫视频道" ,北京IPTV萌宠TV
+#EXTINF:-1 group-title="卫视频道",北京IPTV萌宠TV
 http://r.xace.fun:4999/udp/239.3.1.102:8001
-#EXTINF:-1 group-title="卫视频道" ,,北京IPTV淘剧场
+#EXTINF:-1 group-title="卫视频道",北京IPTV淘剧场
 http://r.xace.fun:4999/udp/239.3.1.95:8001
-#EXTINF:-1 group-title="卫视频道" ,北京IPTV淘娱乐
+#EXTINF:-1 group-title="卫视频道",北京IPTV淘娱乐
 http://r.xace.fun:4999/udp/239.3.1.100:8001
-#EXTINF:-1 group-title="卫视频道" ,北京IPTV淘电影
+#EXTINF:-1 group-title="卫视频道",北京IPTV淘电影
 http://r.xace.fun:4999/udp/239.3.1.250:8001
-#EXTINF:-1 group-title="卫视频道" ,北京IPTV4K
+#EXTINF:-1 group-title="卫视频道",北京IPTV4K
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
-#EXTINF:-1 group-title="卫视频道" ,北京纪实科教
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
 http://47.97.252.137:8088/daili/btv3.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京纪实科教
+#EXTINF:-1 group-title="卫视频道",北京纪实科教
 http://47.97.252.137:8088/daili/btv3.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京卡酷少儿
+#EXTINF:-1 group-title="卫视频道",北京卡酷少儿
 http://47.97.252.137:8088/daili/btvkk.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="卫视频道" ,北京卡酷少儿
+#EXTINF:-1 group-title="卫视频道",北京卡酷少儿
 http://47.97.252.137:8088/daili/btvkk.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,四海钓鱼
+#EXTINF:-1 group-title="其他频道",四海钓鱼
 http://47.97.252.137:8088/daili/shdy.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,,四海钓鱼
+#EXTINF:-1 group-title="其他频道",四海钓鱼
 http://47.97.252.137:8088/daili/shdy.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,四海钓鱼
+#EXTINF:-1 group-title="其他频道",四海钓鱼
 http://47.97.252.137:8088/daili/shdy.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,怀柔电视台
+#EXTINF:-1 group-title="其他频道",怀柔电视台
 http://47.97.252.137:8088/daili/bjhrtv1.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,怀柔电视台
+#EXTINF:-1 group-title="其他频道",怀柔电视台
 http://47.97.252.137:8088/daili/bjhrtv1.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,怀柔电视台
+#EXTINF:-1 group-title="其他频道",怀柔电视台
 http://47.97.252.137:8088/daili/bjhrtv1.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,大兴电视台
-http://47.97.252.137:8088/daili/bjdxtv1.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,大兴电视台
+#EXTINF:-1 group-title="其他频道",大兴电视台
 http://47.97.252.137:8088/daili/bjdxtv1.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,延庆电视台
+#EXTINF:-1 group-title="其他频道",延庆电视台
 http://47.97.252.137:8088/daili/bjyqtv1.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,延庆电视台
+#EXTINF:-1 group-title="其他频道",延庆电视台
 http://47.97.252.137:8088/daili/bjyqtv1.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,延庆电视台
+#EXTINF:-1 group-title="其他频道",延庆电视台
 http://47.97.252.137:8088/daili/bjyqtv1.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="其他频道" ,顺义电视
+#EXTINF:-1 group-title="其他频道",顺义电视
 http://47.97.252.137:8088/daili/bjsytv1.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育1
+#EXTINF:-1 group-title="教育频道",中国国际教育1
 http://47.97.252.137:8088/daili/bjgj1.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育1
+#EXTINF:-1 group-title="教育频道",中国国际教育1
 http://47.97.252.137:8088/daili/bjgj1.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育1
+#EXTINF:-1 group-title="教育频道",中国国际教育1
 http://47.97.252.137:8088/daili/bjgj1.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育2
+#EXTINF:-1 group-title="教育频道",中国国际教育2
 http://47.97.252.137:8088/daili/bjgj2.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育2
+#EXTINF:-1 group-title="教育频道",中国国际教育2
 http://47.97.252.137:8088/daili/bjgj2.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,,中国国际教育2
+#EXTINF:-1 group-title="教育频道",中国国际教育2
 http://47.97.252.137:8088/daili/bjgj2.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育3
+#EXTINF:-1 group-title="教育频道",中国国际教育3
 http://47.97.252.137:8088/daili/bjgj3.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育3
+#EXTINF:-1 group-title="教育频道",中国国际教育3
 http://47.97.252.137:8088/daili/bjgj3.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育3
+#EXTINF:-1 group-title="教育频道",中国国际教育3
 http://47.97.252.137:8088/daili/bjgj3.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育4
+#EXTINF:-1 group-title="教育频道",中国国际教育4
 http://47.97.252.137:8088/daili/bjgj4.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育4
+#EXTINF:-1 group-title="教育频道",中国国际教育4
 http://47.97.252.137:8088/daili/bjgj4.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际教育4
+#EXTINF:-1 group-title="教育频道",中国国际教育4
 http://47.97.252.137:8088/daili/bjgj4.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际少儿电视台
-http://47.97.252.137:8088/daili/bjgjse.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,中国国际少儿电视台
-http://47.97.252.137:8088/daili/bjgjse.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,党员教育频道
+#EXTINF:-1 group-title="教育频道",党员教育频道
 http://47.97.252.137:8088/daili/bjdj.m3u8?line=0|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,,党员教育频道
+#EXTINF:-1 group-title="教育频道",党员教育频道
 http://47.97.252.137:8088/daili/bjdj.m3u8?line=1|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="教育频道" ,党员教育频道
+#EXTINF:-1 group-title="教育频道",党员教育频道
 http://47.97.252.137:8088/daili/bjdj.m3u8?line=2|Referer=https://tv.cctv.com/
-#EXTINF:-1 group-title="轮播频道" ,,成龙轮播
+#EXTINF:-1 group-title="轮播频道",成龙轮播
 http://cfss.cc/cdn/huya/11342386.flv
-#EXTINF:-1 group-title="轮播频道" ,放映厅轮播
+#EXTINF:-1 group-title="轮播频道",放映厅轮播
 http://cfss.cc/cdn/huya/11602077.flv
-#EXTINF:-1 group-title="轮播频道" ,刘德华轮播
+#EXTINF:-1 group-title="轮播频道",刘德华轮播
 http://cfss.cc/cdn/huya/11342424.flv
-#EXTINF:-1 group-title="轮播频道" ,李连杰轮播
+#EXTINF:-1 group-title="轮播频道",李连杰轮播
 http://cfss.cc/cdn/huya/11342390.flv
-#EXTINF:-1 group-title="轮播频道" ,甄子丹轮播
+#EXTINF:-1 group-title="轮播频道",甄子丹轮播
 http://cfss.cc/cdn/huya/11352935.flv
-#EXTINF:-1 group-title="轮播频道" ,周润发轮播
+#EXTINF:-1 group-title="轮播频道",周润发轮播
 http://cfss.cc/cdn/huya/11342387.flv
-#EXTINF:-1 group-title="轮播频道" ,周星星轮播
+#EXTINF:-1 group-title="轮播频道",周星星轮播
 http://cfss.cc/cdn/huya/11336587.flv
-#EXTINF:-1 group-title="轮播频道" ,洪金宝轮播
+#EXTINF:-1 group-title="轮播频道",洪金宝轮播
 http://cfss.cc/cdn/huya/11279251.flv
-#EXTINF:-1 group-title="轮播频道" ,梁家辉轮播
+#EXTINF:-1 group-title="轮播频道",梁家辉轮播
 http://cfss.cc/cdn/huya/11342429.flv
-#EXTINF:-1 group-title="轮播频道" ,五福星轮播
+#EXTINF:-1 group-title="轮播频道",五福星轮播
 http://cfss.cc/cdn/huya/11282233.flv
-#EXTINF:-1 group-title="轮播频道" ,古天乐轮播
+#EXTINF:-1 group-title="轮播频道",古天乐轮播
 http://cfss.cc/cdn/huya/11602041.flv
-#EXTINF:-1 group-title="轮播频道" ,邱淑贞轮播
+#EXTINF:-1 group-title="轮播频道",邱淑贞轮播
 http://cfss.cc/cdn/huya/11352949.flv
-#EXTINF:-1 group-title="轮播频道" ,周海媚轮播
+#EXTINF:-1 group-title="轮播频道",周海媚轮播
 http://cfss.cc/cdn/huya/11279247.flv
-#EXTINF:-1 group-title="轮播频道" ,星爷轮播
+#EXTINF:-1 group-title="轮播频道",星爷轮播
 http://cfss.cc/cdn/huya/11342412.flv
-#EXTINF:-1 group-title="轮播频道" ,英叔轮播
+#EXTINF:-1 group-title="轮播频道",英叔轮播
 http://cfss.cc/cdn/huya/11342421.flv
-#EXTINF:-1 group-title="轮播频道" ,王晶轮播
+#EXTINF:-1 group-title="轮播频道",王晶轮播
 http://cfss.cc/cdn/huya/11602058.flv
-#EXTINF:-1 group-title="轮播频道" ,沈腾轮播
+#EXTINF:-1 group-title="轮播频道",沈腾轮播
 http://cfss.cc/cdn/huya/11601968.flv
-#EXTINF:-1 group-title="轮播频道" ,黄渤轮播
+#EXTINF:-1 group-title="轮播频道",黄渤轮播
 http://cfss.cc/cdn/huya/11352876.flv
-#EXTINF:-1 group-title="轮播频道" ,强森轮播
+#EXTINF:-1 group-title="轮播频道",强森轮播
 http://cfss.cc/cdn/huya/21059581.flv
-#EXTINF:-1 group-title="轮播频道" ,玄幻轮播
+#EXTINF:-1 group-title="轮播频道",玄幻轮播
 http://cfss.cc/cdn/huya/11342414.flv
-#EXTINF:-1 group-title="轮播频道" ,喜剧轮播
+#EXTINF:-1 group-title="轮播频道",喜剧轮播
 http://cfss.cc/cdn/huya/11352877.flv
-#EXTINF:-1 group-title="轮播频道" ,港片轮播
+#EXTINF:-1 group-title="轮播频道",港片轮播
 http://cfss.cc/cdn/huya/11602043.flv
-#EXTINF:-1 group-title="轮播频道" ,国产轮播
+#EXTINF:-1 group-title="轮播频道",国产轮播
 http://cfss.cc/cdn/huya/11352973.flv
-#EXTINF:-1 group-title="轮播频道" ,,漫威轮播
+#EXTINF:-1 group-title="轮播频道",漫威轮播
 http://cfss.cc/cdn/huya/11602034.flv
-#EXTINF:-1 group-title="轮播频道" ,宇宙轮播
+#EXTINF:-1 group-title="轮播频道",宇宙轮播
 http://cfss.cc/cdn/huya/11342428.flv
-#EXTINF:-1 group-title="轮播频道" ,怪兽轮播
+#EXTINF:-1 group-title="轮播频道",怪兽轮播
 http://cfss.cc/cdn/huya/21059577.flv
-#EXTINF:-1 group-title="轮播频道" ,武侠轮播
+#EXTINF:-1 group-title="轮播频道",武侠轮播
 http://cfss.cc/cdn/huya/11342427.flv
-#EXTINF:-1 group-title="轮播频道" ,警匪轮播
+#EXTINF:-1 group-title="轮播频道",警匪轮播
 http://cfss.cc/cdn/huya/11352886.flv
-#EXTINF:-1 group-title="轮播频道" ,罪犯轮播
+#EXTINF:-1 group-title="轮播频道",罪犯轮播
 http://cfss.cc/cdn/huya/11352962.flv
-#EXTINF:-1 group-title="轮播频道" ,枪战轮播
+#EXTINF:-1 group-title="轮播频道",枪战轮播
 http://cfss.cc/cdn/huya/21059579.flv
-#EXTINF:-1 group-title="轮播频道" ,盗墓轮播
+#EXTINF:-1 group-title="轮播频道",盗墓轮播
 http://cfss.cc/cdn/huya/21059552.flv
-#EXTINF:-1 group-title="轮播频道" ,海盗轮播
-http://cfss.cc/cdn/huya/21059595.flv
-#EXTINF:-1 group-title="轮播频道" ,救援轮播
+#EXTINF:-1 group-title="轮播频道",救援轮播
 http://cfss.cc/cdn/huya/21059594.flv
-#EXTINF:-1 group-title="轮播频道" ,热血轮播
+#EXTINF:-1 group-title="轮播频道",热血轮播
 http://cfss.cc/cdn/huya/11352934.flv
-#EXTINF:-1 group-title="轮播频道" ,谍战轮播
+#EXTINF:-1 group-title="轮播频道",谍战轮播
 http://cfss.cc/cdn/huya/21059585.flv
-#EXTINF:-1 group-title="轮播频道" ,战争轮播
+#EXTINF:-1 group-title="轮播频道",战争轮播
 http://cfss.cc/cdn/huya/21059592.flv
-#EXTINF:-1 group-title="轮播频道" ,小鬼头轮播
+#EXTINF:-1 group-title="轮播频道",小鬼头轮播
 http://cfss.cc/cdn/huya/11352963.flv
-#EXTINF:-1 group-title="轮播频道" ,黄渤
+#EXTINF:-1 group-title="轮播频道",黄渤
 http://diyp.zxyxndc.top/huya/11601968
-#EXTINF:-1 group-title="轮播频道" ,强森
+#EXTINF:-1 group-title="轮播频道",强森
 http://diyp.zxyxndc.top/huya/21059581
-#EXTINF:-1 group-title="轮播频道" ,陈翔六点频道
+#EXTINF:-1 group-title="轮播频道",陈翔六点频道
 http://cfss.cc/cdn/huya/11274154.flv
-#EXTINF:-1 group-title="轮播频道" ,喜剧专场频道
+#EXTINF:-1 group-title="轮播频道",喜剧专场频道
 http://cfss.cc/cdn/huya/11602044.flv
-#EXTINF:-1 group-title="轮播频道" ,高分动作频道
+#EXTINF:-1 group-title="轮播频道",高分动作频道
 http://cfss.cc/cdn/huya/11352884.flv
-#EXTINF:-1 group-title="轮播频道" ,不挤影院频道
+#EXTINF:-1 group-title="轮播频道",不挤影院频道
 http://cfss.cc/cdn/huya/11352897.flv
-#EXTINF:-1 group-title="轮播频道" ,黑帮斗争频道
+#EXTINF:-1 group-title="轮播频道",黑帮斗争频道
 http://cfss.cc/cdn/huya/11342419.flv
-#EXTINF:-1 group-title="轮播频道" ,嫣然影厅频道
+#EXTINF:-1 group-title="轮播频道",嫣然影厅频道
 http://cfss.cc/cdn/huya/11601977.flv
-#EXTINF:-1 group-title="轮播频道" ,女神系列频道
+#EXTINF:-1 group-title="轮播频道",女神系列频道
 http://cfss.cc/cdn/huya/11336571.flv
-#EXTINF:-1 group-title="轮播频道" ,经典女神频道
+#EXTINF:-1 group-title="轮播频道",经典女神频道
 http://cfss.cc/cdn/huya/11352909.flv
-#EXTINF:-1 group-title="轮播频道" ,许氏三杰频道
+#EXTINF:-1 group-title="轮播频道",许氏三杰频道
 http://cfss.cc/cdn/huya/11602033.flv
-#EXTINF:-1 group-title="轮播频道" ,经典港片频道
+#EXTINF:-1 group-title="轮播频道",经典港片频道
 http://cfss.cc/cdn/huya/11352965.flv
-#EXTINF:-1 group-title="轮播频道" ,镖行天下频道
+#EXTINF:-1 group-title="轮播频道",镖行天下频道
 http://cfss.cc/cdn/huya/11352969.flv
-#EXTINF:-1 group-title="轮播频道" ,蘑菇影厅频道
+#EXTINF:-1 group-title="轮播频道",蘑菇影厅频道
 http://cfss.cc/cdn/huya/11601981.flv
-#EXTINF:-1 group-title="轮播频道" ,搞笑恐怖频道
+#EXTINF:-1 group-title="轮播频道",搞笑恐怖频道
 http://cfss.cc/cdn/huya/11601960.flv
-#EXTINF:-1 group-title="轮播频道" ,死神来了频道
+#EXTINF:-1 group-title="轮播频道",死神来了频道
 http://cfss.cc/cdn/huya/11352903.flv
-#EXTINF:-1 group-title="轮播频道" ,超异能族频道
+#EXTINF:-1 group-title="轮播频道",超异能族频道
 http://cfss.cc/cdn/huya/21059586.flv
-#EXTINF:-1 group-title="轮播频道" ,古墓系列频道
+#EXTINF:-1 group-title="轮播频道",古墓系列频道
 http://cfss.cc/cdn/huya/11352913.flv
-#EXTINF:-1 group-title="轮播频道" ,搞笑喜剧频道
+#EXTINF:-1 group-title="轮播频道",搞笑喜剧频道
 http://cfss.cc/cdn/huya/11342423.flv
-#EXTINF:-1 group-title="轮播频道" ,欢笑影院频道
+#EXTINF:-1 group-title="轮播频道",欢笑影院频道
 http://cfss.cc/cdn/huya/11352894.flv
-#EXTINF:-1 group-title="轮播频道" ,国产悬疑频道
+#EXTINF:-1 group-title="轮播频道",国产悬疑频道
 http://cfss.cc/cdn/huya/11342395.flv
-#EXTINF:-1 group-title="轮播频道" ,快意江湖频道
+#EXTINF:-1 group-title="轮播频道",快意江湖频道
 http://cfss.cc/cdn/huya/11342435.flv
-#EXTINF:-1 group-title="轮播频道" ,,喜乐影院频道
+#EXTINF:-1 group-title="轮播频道",喜乐影院频道
 http://cfss.cc/cdn/huya/21059580.flv
-#EXTINF:-1 group-title="轮播频道" ,怪兽系列频道
+#EXTINF:-1 group-title="轮播频道",怪兽系列频道
 http://cfss.cc/cdn/huya/21059554.flv
-#EXTINF:-1 group-title="轮播频道" ,杰森斯坦频道
+#EXTINF:-1 group-title="轮播频道",杰森斯坦频道
 http://cfss.cc/cdn/huya/21059588.flv
-#EXTINF:-1 group-title="轮播频道" ,寻秦记轮播
+#EXTINF:-1 group-title="轮播频道",寻秦记轮播
 http://cfss.cc/cdn/huya/29465848.flv
-#EXTINF:-1 group-title="轮播频道" ,西游记轮播
+#EXTINF:-1 group-title="轮播频道",西游记轮播
 http://cfss.cc/cdn/huya/29465859.flv
-#EXTINF:-1 group-title="轮播频道" ,扫黄先锋频道
+#EXTINF:-1 group-title="轮播频道",扫黄先锋频道
 http://cfss.cc/cdn/huya/29465855.flv
-#EXTINF:-1 group-title="轮播频道" ,楚汉骄雄频道
+#EXTINF:-1 group-title="轮播频道",楚汉骄雄频道
 http://cfss.cc/cdn/huya/29465854.flv
-#EXTINF:-1 group-title="轮播频道" ,陀枪师姐频道
+#EXTINF:-1 group-title="轮播频道",陀枪师姐频道
 http://cfss.cc/cdn/huya/29465857.flv
-#EXTINF:-1 group-title="轮播频道" ,法证先锋频道
+#EXTINF:-1 group-title="轮播频道",法证先锋频道
 http://cfss.cc/cdn/huya/29465861.flv
-#EXTINF:-1 group-title="轮播频道" ,刑事侦缉频道
+#EXTINF:-1 group-title="轮播频道",刑事侦缉频道
 http://cfss.cc/cdn/huya/29465856.flv
-#EXTINF:-1 group-title="轮播频道" ,笑看风云频道
+#EXTINF:-1 group-title="轮播频道",笑看风云频道
 http://cfss.cc/cdn/huya/29465858.flv
-#EXTINF:-1 group-title="轮播频道" ,大唐双龙频道
+#EXTINF:-1 group-title="轮播频道",大唐双龙频道
 http://cfss.cc/cdn/huya/29465850.flv
-#EXTINF:-1 group-title="轮播频道" ,洗冤录轮播
+#EXTINF:-1 group-title="轮播频道",洗冤录轮播
 http://cfss.cc/cdn/huya/29465851.flv
-#EXTINF:-1 group-title="轮播频道" ,野蛮奶奶频道
+#EXTINF:-1 group-title="轮播频道",野蛮奶奶频道
 http://cfss.cc/cdn/huya/23863796.flv
-#EXTINF:-1 group-title="轮播频道" ,创世纪轮播
+#EXTINF:-1 group-title="轮播频道",创世纪轮播
 http://cfss.cc/cdn/huya/29465852.flv
-#EXTINF:-1 group-title="轮播频道" ,封神榜轮播
+#EXTINF:-1 group-title="轮播频道",封神榜轮播
 http://cfss.cc/cdn/huya/29465849.flv
-#EXTINF:-1 group-title="轮播频道" ,妙手仁心频道
+#EXTINF:-1 group-title="轮播频道",妙手仁心频道
 http://cfss.cc/cdn/huya/29465853.flv
-#EXTINF:-1 group-title="轮播频道" ,活佛济公频道
+#EXTINF:-1 group-title="轮播频道",活佛济公频道
 http://cfss.cc/cdn/huya/23903123.flv
-#EXTINF:-1 group-title="轮播频道" ,鹿鼎记98频道
+#EXTINF:-1 group-title="轮播频道",鹿鼎记98频道
 http://cfss.cc/cdn/huya/26355806.flv
-#EXTINF:-1 group-title="轮播频道" ,小李飞刀频道
+#EXTINF:-1 group-title="轮播频道",小李飞刀频道
 http://cfss.cc/cdn/huya/11342417.flv
-#EXTINF:-1 group-title="轮播频道" ,水月洞天频道
+#EXTINF:-1 group-title="轮播频道",水月洞天频道
 http://cfss.cc/cdn/huya/21059567.flv
-#EXTINF:-1 group-title="轮播频道" ,绝代双娇频道
+#EXTINF:-1 group-title="轮播频道",绝代双娇频道
 http://cfss.cc/cdn/huya/29465867.flv
-#EXTINF:-1 group-title="轮播频道" ,如懿传轮播
+#EXTINF:-1 group-title="轮播频道",如懿传轮播
 http://cfss.cc/cdn/huya/29465868.flv
-#EXTINF:-1 group-title="轮播频道" ,芈月传轮播
+#EXTINF:-1 group-title="轮播频道",芈月传轮播
 http://cfss.cc/cdn/huya/11352975.flv
-#EXTINF:-1 group-title="轮播频道" ,延禧攻略频道
+#EXTINF:-1 group-title="轮播频道",延禧攻略频道
 http://cfss.cc/cdn/huya/26355864.flv
-#EXTINF:-1 group-title="轮播频道" ,王子青蛙频道
+#EXTINF:-1 group-title="轮播频道",王子青蛙频道
 http://cfss.cc/cdn/huya/11601964.flv
-#EXTINF:-1 group-title="轮播频道" ,永夜星河频道
+#EXTINF:-1 group-title="轮播频道",永夜星河频道
 http://cfss.cc/cdn/huya/23734169.flv
-#EXTINF:-1 group-title="轮播频道" ,玫瑰故事频道
+#EXTINF:-1 group-title="轮播频道",玫瑰故事频道
 http://cfss.cc/cdn/huya/23865142.flv
-#EXTINF:-1 group-title="轮播频道" ,漫长季节频道
+#EXTINF:-1 group-title="轮播频道",漫长季节频道
 http://cfss.cc/cdn/huya/11342393.flv
-#EXTINF:-1 group-title="轮播频道" ,乌龙院闯频道
+#EXTINF:-1 group-title="轮播频道",乌龙院闯频道
 http://cfss.cc/cdn/huya/26355767.flv
-#EXTINF:-1 group-title="轮播频道" ,新楚留香频道
+#EXTINF:-1 group-title="轮播频道",新楚留香频道
 http://cfss.cc/cdn/huya/26355848.flv
-#EXTINF:-1 group-title="轮播频道" ,新楚留香频道
+#EXTINF:-1 group-title="轮播频道",新楚留香频道
 http://cfss.cc/cdn/huya/23863804.flv
-#EXTINF:-1 group-title="轮播频道" ,无心法师频道
+#EXTINF:-1 group-title="轮播频道",无心法师频道
 http://cfss.cc/cdn/huya/30080233.flv
-#EXTINF:-1 group-title="轮播频道" ,征服轮播
+#EXTINF:-1 group-title="轮播频道",征服轮播
 http://cfss.cc/cdn/huya/30311494.flv
-#EXTINF:-1 group-title="轮播频道" ,海绵宝宝频道
+#EXTINF:-1 group-title="轮播频道",海绵宝宝频道
 http://cfss.cc/cdn/huya/11352919.flv
-#EXTINF:-1 group-title="轮播频道" ,龙珠轮播
+#EXTINF:-1 group-title="轮播频道",龙珠轮播
 http://cfss.cc/cdn/huya/10279885.flv
-#EXTINF:-1 group-title="轮播频道" ,叮当全集频道
+#EXTINF:-1 group-title="轮播频道",叮当全集频道
 http://cfss.cc/cdn/huya/11601963.flv
-#EXTINF:-1 group-title="轮播频道" ,樱桃小丸频道
+#EXTINF:-1 group-title="轮播频道",樱桃小丸频道
 http://cfss.cc/cdn/huya/11342394.flv
-#EXTINF:-1 group-title="轮播频道" ,猫和老鼠频道
+#EXTINF:-1 group-title="轮播频道",猫和老鼠频道
 http://cfss.cc/cdn/huya/11352879.flv
-#EXTINF:-1 group-title="轮播频道" ,精绝古城频道
+#EXTINF:-1 group-title="轮播频道",精绝古城频道
 http://cfss.cc/cdn/huya/11352871.flv
-#EXTINF:-1 group-title="轮播频道" ,怒晴湘西频道
+#EXTINF:-1 group-title="轮播频道",怒晴湘西频道
 http://cfss.cc/cdn/huya/11602075.flv
-#EXTINF:-1 group-title="轮播频道" ,龙岭迷窟频道
+#EXTINF:-1 group-title="轮播频道",龙岭迷窟频道
 http://cfss.cc/cdn/huya/29465863.flv
-#EXTINF:-1 group-title="轮播频道" ,云南虫谷频道
+#EXTINF:-1 group-title="轮播频道",云南虫谷频道
 http://cfss.cc/cdn/huya/11352898.flv
-#EXTINF:-1 group-title="轮播频道" ,亮剑轮播
+#EXTINF:-1 group-title="轮播频道",亮剑轮播
 http://cfss.cc/cdn/huya/30080238.flv
-#EXTINF:-1 group-title="轮播频道" ,民兵葛二频道
+#EXTINF:-1 group-title="轮播频道",民兵葛二频道
 http://cfss.cc/cdn/huya/11602072.flv
-#EXTINF:-1 group-title="轮播频道" ,铁道游击频道
+#EXTINF:-1 group-title="轮播频道",铁道游击频道
 http://cfss.cc/cdn/huya/11352936.flv
-#EXTINF:-1 group-title="轮播频道" ,铁梨花轮播
+#EXTINF:-1 group-title="轮播频道",铁梨花轮播
 http://cfss.cc/cdn/huya/11352912.flv
-#EXTINF:-1 group-title="轮播频道" ,康熙微服频道
+#EXTINF:-1 group-title="轮播频道",康熙微服频道
 http://cfss.cc/cdn/huya/11342418.flv
-#EXTINF:-1 group-title="轮播频道" ,御赐仵作频道
+#EXTINF:-1 group-title="轮播频道",御赐仵作频道
 http://cfss.cc/cdn/huya/11352948.flv
-#EXTINF:-1 group-title="轮播频道" ,新水浒传频道
+#EXTINF:-1 group-title="轮播频道",新水浒传频道
 http://cfss.cc/cdn/huya/11342384.flv
-#EXTINF:-1 group-title="轮播频道" ,开端轮播
+#EXTINF:-1 group-title="轮播频道",开端轮播
 http://cfss.cc/cdn/huya/11342397.flv
-#EXTINF:-1 group-title="轮播频道" ,神探狄仁频道
+#EXTINF:-1 group-title="轮播频道",神探狄仁频道
 http://cfss.cc/cdn/huya/11352958.flv
-#EXTINF:-1 group-title="轮播频道" ,三国演义频道
+#EXTINF:-1 group-title="轮播频道",三国演义频道
 http://cfss.cc/cdn/huya/11602081.flv
-#EXTINF:-1 group-title="轮播频道" ,新三国演频道
+#EXTINF:-1 group-title="轮播频道",新三国演频道
 http://cfss.cc/cdn/huya/11352944.flv
-#EXTINF:-1 group-title="轮播频道" ,问心轮播
+#EXTINF:-1 group-title="轮播频道",问心轮播
 http://cfss.cc/cdn/huya/11352890.flv
-#EXTINF:-1 group-title="轮播频道" ,炊事班的频道
+#EXTINF:-1 group-title="轮播频道",炊事班的频道
 http://cfss.cc/cdn/huya/19524135.flv
-#EXTINF:-1 group-title="轮播频道" ,医馆笑传频道
+#EXTINF:-1 group-title="轮播频道",医馆笑传频道
 http://cfss.cc/cdn/huya/11352891.flv
-#EXTINF:-1 group-title="轮播频道" ,杨光生活频道
+#EXTINF:-1 group-title="轮播频道",杨光生活频道
 http://cfss.cc/cdn/huya/11602085.flv
-#EXTINF:-1 group-title="轮播频道" ,陈情令轮播
+#EXTINF:-1 group-title="轮播频道",陈情令轮播
 http://cfss.cc/cdn/huya/29465862.flv
-#EXTINF:-1 group-title="轮播频道" ,神医喜来频道
+#EXTINF:-1 group-title="轮播频道",神医喜来频道
 http://cfss.cc/cdn/huya/11601978.flv
-#EXTINF:-1 group-title="轮播频道" ,大宋提刑频道
+#EXTINF:-1 group-title="轮播频道",大宋提刑频道
 http://cfss.cc/cdn/huya/26355856.flv
-#EXTINF:-1 group-title="轮播频道" ,白鹿原轮播
+#EXTINF:-1 group-title="轮播频道",白鹿原轮播
 http://cfss.cc/cdn/huya/11342416.flv
-#EXTINF:-1 group-title="轮播频道" ,长相思轮播
+#EXTINF:-1 group-title="轮播频道",长相思轮播
 http://cfss.cc/cdn/huya/11336593.flv
-#EXTINF:-1 group-title="轮播频道" ,你是我的频道
+#EXTINF:-1 group-title="轮播频道",你是我的频道
 http://cfss.cc/cdn/huya/11352920.flv
-#EXTINF:-1 group-title="轮播频道" ,一代枭雄频道
+#EXTINF:-1 group-title="轮播频道",一代枭雄频道
 http://cfss.cc/cdn/huya/11342398.flv
-#EXTINF:-1 group-title="轮播频道" ,庆余年轮播
+#EXTINF:-1 group-title="轮播频道",庆余年轮播
 http://cfss.cc/cdn/huya/11352960.flv
-#EXTINF:-1 group-title="轮播频道" ,铁齿铜牙频道
+#EXTINF:-1 group-title="轮播频道",铁齿铜牙频道
 http://cfss.cc/cdn/huya/11342396.flv
-#EXTINF:-1 group-title="轮播频道" ,星汉灿烂频道
+#EXTINF:-1 group-title="轮播频道",星汉灿烂频道
 http://cfss.cc/cdn/huya/11336591.flv
-#EXTINF:-1 group-title="轮播频道" ,将夜轮播
+#EXTINF:-1 group-title="轮播频道",将夜轮播
 http://cfss.cc/cdn/huya/11352885.flv
-#EXTINF:-1 group-title="轮播频道" ,父母爱情频道
+#EXTINF:-1 group-title="轮播频道",父母爱情频道
 http://cfss.cc/cdn/huya/11602071.flv
-#EXTINF:-1 group-title="轮播频道" ,大染坊轮播
+#EXTINF:-1 group-title="轮播频道",大染坊轮播
 http://cfss.cc/cdn/huya/11602086.flv
-#EXTINF:-1 group-title="轮播频道" ,地下交通频道
+#EXTINF:-1 group-title="轮播频道",地下交通频道
 http://cfss.cc/cdn/huya/11342433.flv
-#EXTINF:-1 group-title="轮播频道" ,邻里一家频道
+#EXTINF:-1 group-title="轮播频道",邻里一家频道
 http://cfss.cc/cdn/huya/11342426.flv
-#EXTINF:-1 group-title="轮播频道" ,雍正王朝频道
+#EXTINF:-1 group-title="轮播频道",雍正王朝频道
 http://cfss.cc/cdn/huya/11342439.flv
-#EXTINF:-1 group-title="轮播频道" ,士兵突击频道
+#EXTINF:-1 group-title="轮播频道",士兵突击频道
 http://cfss.cc/cdn/huya/11342430.flv
-#EXTINF:-1 group-title="轮播频道" ,爱情公寓频道
+#EXTINF:-1 group-title="轮播频道",爱情公寓频道
 http://cfss.cc/cdn/huya/11336726.flv
-#EXTINF:-1 group-title="轮播频道" ,电视剧三频道
+#EXTINF:-1 group-title="轮播频道",电视剧三频道
 http://cfss.cc/cdn/huya/21059563.flv
-#EXTINF:-1 group-title="轮播频道" ,电视剧七频道
+#EXTINF:-1 group-title="轮播频道",电视剧七频道
 http://cfss.cc/cdn/huya/21059630.flv
-#EXTINF:-1 group-title="轮播频道" ,电视剧八频道
-http://cfss.cc/cdn/huya/26355775.flv
-#EXTINF:-1 group-title="轮播频道" ,电视剧十一道
+#EXTINF:-1 group-title="轮播频道",电视剧十一道
 http://cfss.cc/cdn/huya/11602088.flv
-#EXTINF:-1 group-title="轮播频道" ,中国电影
+#EXTINF:-1 group-title="轮播频道",中国电影
 http://iptv.4666888.xyz/iptv2A.php?id=61
-#EXTINF:-1 group-title="轮播频道" ,东方影视
+#EXTINF:-1 group-title="轮播频道",东方影视
 http://106.13.88.102/cs2.php?id=617290047
-#EXTINF:-1 group-title="轮播频道" ,经典香港
+#EXTINF:-1 group-title="轮播频道",经典香港
 http://106.13.88.102/cs2.php?id=625703337
-#EXTINF:-1 group-title="轮播频道" ,抗战经典
+#EXTINF:-1 group-title="轮播频道",抗战经典
 http://106.13.88.102/cs2.php?id=617432318
-#EXTINF:-1 group-title="轮播频道" ,新片速递
+#EXTINF:-1 group-title="轮播频道",新片速递
 http://106.13.88.102/cs2.php?id=619495952
 #EXTINF:-1 group-title="电影频道",影迷
 http://106.13.88.102/cs2.php?id=952383261
@@ -1785,140 +1759,140 @@ http://106.13.88.102/cs2.php?id=952383261
 http://106.13.88.102/cs2.php?id=644368714
 #EXTINF:-1 group-title="电影频道",家庭
 http://106.13.88.102/cs2.php?id=644368373
-#EXTINF:-1 group-title="轮播频道" ,雪豹电视轮播
+#EXTINF:-1 group-title="轮播频道",雪豹电视轮播
 http://cfss.cc/cdn/huya/29580970.flv
-#EXTINF:-1 group-title="轮播频道" ,庆余年二轮播
+#EXTINF:-1 group-title="轮播频道",庆余年二轮播
 http://cfss.cc/cdn/huya/23740156.flv
-#EXTINF:-1 group-title="轮播频道" ,,传闻中的芊芊
+#EXTINF:-1 group-title="轮播频道",传闻中的芊芊
 http://cfss.cc/cdn/huya/21059608.flv
-#EXTINF:-1 group-title="轮播频道" ,与凤行电视剧
+#EXTINF:-1 group-title="轮播频道",与凤行电视剧
 http://cfss.cc/cdn/huya/26355866.flv
-#EXTINF:-1 group-title="轮播频道" ,柳舟记电视剧
+#EXTINF:-1 group-title="轮播频道",柳舟记电视剧
 http://cfss.cc/cdn/huya/23860039.flv
-#EXTINF:-1 group-title="轮播频道" ,我爱男保姆播
+#EXTINF:-1 group-title="轮播频道",我爱男保姆播
 http://cfss.cc/cdn/huya/29581262.flv
-#EXTINF:-1 group-title="轮播频道" ,科幻梦工场播
+#EXTINF:-1 group-title="轮播频道",科幻梦工场播
 http://cfss.cc/cdn/huya/15152155.flv
-#EXTINF:-1 group-title="轮播频道" ,脱口秀大会肆
+#EXTINF:-1 group-title="轮播频道",脱口秀大会肆
 http://cfss.cc/cdn/huya/30080243.flv
-#EXTINF:-1 group-title="轮播频道" ,脱口秀大会伍
+#EXTINF:-1 group-title="轮播频道",脱口秀大会伍
 http://cfss.cc/cdn/huya/11352875.flv
-#EXTINF:-1 group-title="轮播频道" ,渗透电视轮播
+#EXTINF:-1 group-title="轮播频道",渗透电视轮播
 http://cfss.cc/cdn/huya/30080244.flv
-#EXTINF:-1 group-title="电影频道" ,星空卫视频道
+#EXTINF:-1 group-title="电影频道",星空卫视频道
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="电影频道" ,凤凰电影频道
+#EXTINF:-1 group-title="电影频道",凤凰电影频道
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="电影频道",经典频道
 http://120.76.248.139/live/bfgd/4200000635.m3u8
-#EXTINF:-1 group-title="电影频道" ,古装妖魔频道
+#EXTINF:-1 group-title="电影频道",古装妖魔频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,军旅剧场频道
+#EXTINF:-1 group-title="电影频道",军旅剧场频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,家庭剧场频道
+#EXTINF:-1 group-title="电影频道",家庭剧场频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,泰语剧场频道
+#EXTINF:-1 group-title="电影频道",泰语剧场频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,搞笑剧场频道
+#EXTINF:-1 group-title="电影频道",搞笑剧场频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,传奇剧场频道
+#EXTINF:-1 group-title="电影频道",传奇剧场频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,大家剧场频道
+#EXTINF:-1 group-title="电影频道",大家剧场频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,爱情生活频道
+#EXTINF:-1 group-title="电影频道",爱情生活频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,传奇剧场
+#EXTINF:-1 group-title="电影频道",传奇剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-#EXTINF:-1 group-title="电影频道" ,庆余年
+#EXTINF:-1 group-title="电影频道",庆余年
 http://diyp.zxyxndc.top/huya/11352960
-#EXTINF:-1 group-title="轮播频道" ,纪晓岚
+#EXTINF:-1 group-title="轮播频道",纪晓岚
 http://diyp.zxyxndc.top/huya/11342396
-#EXTINF:-1 group-title="轮播频道" ,雍正王朝
+#EXTINF:-1 group-title="轮播频道",雍正王朝
 http://diyp.zxyxndc.top/huya/11342439
-#EXTINF:-1 group-title="轮播频道" ,大汉王朝
+#EXTINF:-1 group-title="轮播频道",大汉王朝
 http://diyp.zxyxndc.top/huya/11352944
-#EXTINF:-1 group-title="轮播频道" ,士兵突击
+#EXTINF:-1 group-title="轮播频道",士兵突击
 http://diyp.zxyxndc.top/huya/11342430
-#EXTINF:-1 group-title="轮播频道" ,家有儿女
+#EXTINF:-1 group-title="轮播频道",家有儿女
 http://diyp.zxyxndc.top/huya/11352872
-#EXTINF:-1 group-title="轮播频道" ,陈翔六点半
+#EXTINF:-1 group-title="轮播频道",陈翔六点半
 http://diyp.zxyxndc.top/huya/11274154
-#EXTINF:-1 group-title="轮播频道" ,快意江湖
+#EXTINF:-1 group-title="轮播频道",快意江湖
 http://diyp.zxyxndc.top/huya/11342435
-#EXTINF:-1 group-title="少儿频道" ,卡酷少儿
+#EXTINF:-1 group-title="少儿频道",卡酷少儿
 https://live.264788.xyz/channel/kakushaoer?streamid=f6f34f478523a4a98d075253b716da80&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="少儿频道" ,金鹰卡通
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
 https://live.264788.xyz/channel/jinyingkatong?streamid=790415358c6e852c799a2352d86cd719&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="少儿频道" ,哈哈炫动
+#EXTINF:-1 group-title="少儿频道",哈哈炫动
 https://live.264788.xyz/channel/hahaxuandong?streamid=6100bab85a3b9605a4f901169bd71a71&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="少儿频道" ,金鹰卡通
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
 http://1.31.14.70:54321/hls/20/index.m3u8
-#EXTINF:-1 group-title="少儿频道" ,北京少儿
+#EXTINF:-1 group-title="少儿频道",北京少儿
 http://1.31.14.70:54321/hls/38/index.m3u8
-#EXTINF:-1 group-title="少儿频道" ,河北少儿科教
+#EXTINF:-1 group-title="少儿频道",河北少儿科教
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
-#EXTINF:-1 group-title="少儿频道" ,黑龙江少儿
+#EXTINF:-1 group-title="少儿频道",黑龙江少儿
 http://111.43.126.240:9003/hls/12/index.m3u8
-#EXTINF:-1 group-title="少儿频道" ,江西少儿
+#EXTINF:-1 group-title="少儿频道",江西少儿
 http://192.151.150.154/live/jxtv6.m3u8
-#EXTINF:-1 group-title="少儿频道" ,海南少儿
+#EXTINF:-1 group-title="少儿频道",海南少儿
 http://47.108.20.161:8866/hainan/hainan.php?id=sepd
-#EXTINF:-1 group-title="少儿频道" ,内蒙古少儿
+#EXTINF:-1 group-title="少儿频道",内蒙古少儿
 http://play1-qk.nmtv.cn/live/2318general.m3u8
-#EXTINF:-1 group-title="少儿频道" ,柯南
+#EXTINF:-1 group-title="少儿频道",柯南
 http://diyp.zxyxndc.top/huya/30080148
-#EXTINF:-1 group-title="少儿频道" ,柯南
+#EXTINF:-1 group-title="少儿频道",柯南
 http://diyp.zxyxndc.top/huya/30080236
-#EXTINF:-1 group-title="少儿频道" ,咪咕动漫
+#EXTINF:-1 group-title="少儿频道",咪咕动漫
 http://106.13.88.102/cs2.php?id=626064703
-#EXTINF:-1 group-title="少儿频道" ,澳门澳视
+#EXTINF:-1 group-title="少儿频道",澳门澳视
 https://cdn6.163189.xyz/163189/asam
-#EXTINF:-1 group-title="体育频道" ,TVB新闻
+#EXTINF:-1 group-title="体育频道",TVB新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 group-title="体育频道" ,环球电视
+#EXTINF:-1 group-title="体育频道",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="体育频道" ,唐人
+#EXTINF:-1 group-title="体育频道",唐人
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="体育频道" ,ViuTV
+#EXTINF:-1 group-title="体育频道",ViuTV
 https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 group-title="体育频道" ,RHK32
+#EXTINF:-1 group-title="体育频道",RHK32
 http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 group-title="体育频道" ,Now新闻
+#EXTINF:-1 group-title="体育频道",Now新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="体育频道" ,五星体育
+#EXTINF:-1 group-title="体育频道",五星体育
 http://218.1.208.13:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$%E4%B8%8A%E6%B5%B7/%E7%94%B5%E4%BF%A1
-
-#EXTINF:-1 group-title="体育频道" ,劲爆体育
+#EXTINF:-1 group-title="体育频道",劲爆体育
 http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1 group-title="体育频道" ,劲爆体育2
+#EXTINF:-1 group-title="体育频道",劲爆体育2
 http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="体育频道" ,广东体育
+#EXTINF:-1 group-title="体育频道",广东体育
 http://r.jdshipin.com/LiYdg
-#EXTINF:-1 group-title="体育频道" ,纬来体育
+#EXTINF:-1 group-title="体育频道",纬来体育
 https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-#EXTINF:-1 group-title="体育频道" ,纬来体育
+#EXTINF:-1 group-title="体育频道",纬来体育
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
-#EXTINF:-1 group-title="体育频道" ,纬来体育
+#EXTINF:-1 group-title="体育频道",纬来体育
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-#EXTINF:-1 group-title="体育频道" ,纬来体育
+#EXTINF:-1 group-title="体育频道",纬来体育
 http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
-#EXTINF:-1 group-title="体育频道" ,纬来体育2
+#EXTINF:-1 group-title="体育频道",纬来体育2
 http://120.76.248.139/live/bfgd/4200000611.m3u8
-#EXTINF:-1 group-title="体育频道" ,纬来体育3
+#EXTINF:-1 group-title="体育频道",纬来体育3
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-#EXTINF:-1 group-title="体育频道" ,风云足球
+#EXTINF:-1 group-title="体育频道",风云足球
 https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-#EXTINF:-1 group-title="体育频道" ,风云足球
+#EXTINF:-1 group-title="体育频道",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 group-title="体育频道" ,风云足球
+#EXTINF:-1 group-title="体育频道",风云足球
 http://hmfs.f3322.net:3388/hls/9/index.m3u8
-#EXTINF:-1 group-title="其他频道" ,陕西都市青春
+#EXTINF:-1 group-title="其他频道",陕西都市青春
 http://154.12.36.187:656/index.php?token=521314&id=dsqc
-#EXTINF:-1 group-title="其他频道" ,陕西银龄频道
+#EXTINF:-1 group-title="其他频道",陕西银龄频道
 http://154.12.36.187:656/index.php?token=521314&id=ylpd
-#EXTINF:-1 group-title="其他频道" ,陕西秦腔
+#EXTINF:-1 group-title="其他频道",陕西秦腔
 http://154.12.36.187:656/index.php?token=521314&id=qqpd
-#EXTINF:-1 group-title="其他频道" ,陕西移动
+#EXTINF:-1 group-title="其他频道",陕西移动
 http://154.12.36.187:656/index.php?token=521314&id=ydds
-#EXTINF:-1 group-title="其他频道" ,中国天气
+#EXTINF:-1 group-title="其他频道",中国天气
 http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=zgtq
+#EXTEND
