@@ -1,4 +1,4 @@
-H#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://61.164.252.66:17959/live8/ysptv.php?id=cctv1
 #EXTINF:-1 group-title="央视频道",CCTV1
