@@ -1,137 +1,139 @@
 #EXTM3U
+#EXTINF:-1, group-title="央视",CCTV1综合
+http://106.54.4.180:11555/miguVIP.php?id=608807420
 #EXTINF:-1 , group-title="央视",CCTV2财经
-http://106.54.4.180:11555/miguVIP.php?id=631780532|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=631780532
 #EXTINF:-1 , group-title="央视",CCTV3综艺
-http://106.54.4.180:11555/miguVIP.php?id=624878271|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=624878271
 #EXTINF:-1 , group-title="央视",CCTV4中文国际
-http://106.54.4.180:11555/miguVIP.php?id=631780421|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=631780421
 #EXTINF:-1 , group-title="央视",CCTV5体育
-http://106.54.4.180:11555/miguVIP.php?id=641886683|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=641886683
 #EXTINF:-1 , group-title="央视",CCTV5+体育赛事
-http://106.54.4.180:11555/miguVIP.php?id=641886773|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=641886773
 #EXTINF:-1 , group-title="央视",CCTV6电影
-http://106.54.4.180:11555/miguVIP.php?id=624878396|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=624878396
 #EXTINF:-1 , group-title="央视",CCTV7国防军事
-http://106.54.4.180:11555/miguVIP.php?id=673168121|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=673168121
 #EXTINF:-1 , group-title="央视",CCTV8电视剧
-http://106.54.4.180:11555/miguVIP.php?id=624878356|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=624878356
 #EXTINF:-1 , group-title="央视",CCTV9纪录
-http://106.54.4.180:11555/miguVIP.php?id=673168140|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=673168140
 #EXTINF:-1 , group-title="央视",CCTV10科教
-http://106.54.4.180:11555/miguVIP.php?id=624878405|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=624878405
 #EXTINF:-1 , group-title="央视",CCTV11戏曲
-http://106.54.4.180:11555/miguVIP.php?id=667987558|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=667987558
 #EXTINF:-1 , group-title="央视",CCTV12社会与法
-http://106.54.4.180:11555/miguVIP.php?id=673168185|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=673168185
 #EXTINF:-1 , group-title="央视",CCTV13新闻
-http://106.54.4.180:11555/miguVIP.php?id=608807423|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=608807423
 #EXTINF:-1 , group-title="央视",CCTV14少儿
-http://106.54.4.180:11555/miguVIP.php?id=624878440|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=624878440
 #EXTINF:-1 , group-title="央视",CCTV15音乐
-http://106.54.4.180:11555/miguVIP.php?id=673168223|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=673168223
 #EXTINF:-1 , group-title="央视",CCTV17农业农村
-http://106.54.4.180:11555/miguVIP.php?id=673168256|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=673168256
 
 #EXTINF:-1 ,group-title="卫视",东方卫视
-http://106.54.4.180:11555/miguVIP.php?id=651632648|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=651632648
 #EXTINF:-1 ,group-title="卫视",江苏卫视
-http://106.54.4.180:11555/miguVIP.php?id=623899368|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=623899368
 #EXTINF:-1 ,group-title="卫视",广东卫视
-http://106.54.4.180:11555/miguVIP.php?id=608831231|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=608831231
 #EXTINF:-1 ,group-title="卫视",江西卫视
-http://106.54.4.180:11555/miguVIP.php?id=783847495|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=783847495
 #EXTINF:-1 ,group-title="卫视",河南卫视
-http://106.54.4.180:11555/miguVIP.php?id=790187291|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=790187291
 #EXTINF:-1 ,group-title="卫视",陕西卫视
-http://106.54.4.180:11555/miguVIP.php?id=738910838|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=738910838
 #EXTINF:-1 ,group-title="卫视",大湾区卫视
-http://106.54.4.180:11555/miguVIP.php?id=608917627|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=608917627
 #EXTINF:-1 ,group-title="卫视",湖北卫视
-http://106.54.4.180:11555/miguVIP.php?id=947472496|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=947472496
 #EXTINF:-1 ,group-title="卫视",吉林卫视
-http://106.54.4.180:11555/miguVIP.php?id=947472500|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=947472500
 #EXTINF:-1 ,group-title="卫视",青海卫视
-http://106.54.4.180:11555/miguVIP.php?id=947472506|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=947472506
 #EXTINF:-1 ,group-title="卫视",海南卫视
-http://106.54.4.180:11555/miguVIP.php?id=947472502|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=947472502
 #EXTINF:-1 ,group-title="卫视",海峡卫视
-http://106.54.4.180:11555/miguVIP.php?id=849119120|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=849119120
 #EXTINF:-1 ,group-title="卫视",中国农林卫视
-http://106.54.4.180:11555/miguVIP.php?id=956904896|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=956904896
 #EXTINF:-1 ,group-title="卫视",兵团卫视
-http://106.54.4.180:11555/miguVIP.php?id=956923145|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=956923145
 
 #EXTINF:-1 ,group-title="地方",上海新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=651632657|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=651632657
 #EXTINF:-1 ,group-title="地方",上海第一财经
-http://106.54.4.180:11555/miguVIP.php?id=608780988|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=608780988
 #EXTINF:-1 ,group-title="地方",南京新闻综合频道
-http://106.54.4.180:11555/miguVIP.php?id=838109047|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=838109047
 #EXTINF:-1 ,group-title="地方",南京教科频道
-http://106.54.4.180:11555/miguVIP.php?id=838153729|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=838153729
 #EXTINF:-1 ,group-title="地方",南京十八频道
-http://106.54.4.180:11555/miguVIP.php?id=838151753|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=838151753
 #EXTINF:-1 ,group-title="地方",体育休闲频道
-http://106.54.4.180:11555/miguVIP.php?id=626064707|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=626064707
 #EXTINF:-1 ,group-title="地方",江苏城市频道
-http://106.54.4.180:11555/miguVIP.php?id=626064714|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=626064714
 #EXTINF:-1 ,group-title="地方",group-title="地方",江苏国际
-http://106.54.4.180:11555/miguVIP.php?id=626064674|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=626064674
 #EXTINF:-1 ,group-title="地方",江苏教育
-http://106.54.4.180:11555/miguVIP.php?id=628008321|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=628008321
 #EXTINF:-1 ,group-title="地方",江苏影视频道
-http://106.54.4.180:11555/miguVIP.php?id=626064697|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=626064697
 #EXTINF:-1 ,group-title="地方",江苏综艺频道
-http://106.54.4.180:11555/miguVIP.php?id=626065193|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=626065193
 #EXTINF:-1 ,group-title="地方",公共新闻频道
-http://106.54.4.180:11555/miguVIP.php?id=626064693|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=626064693
 #EXTINF:-1 ,group-title="地方",盐城新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=639731825|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=639731825
 #EXTINF:-1 ,group-title="地方",淮安新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=639731826|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=639731826
 #EXTINF:-1 ,group-title="地方",泰州新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=639731818|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=639731818
 #EXTINF:-1 ,group-title="地方",连云港新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=639731715|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=639731715
 #EXTINF:-1 ,group-title="地方",宿迁新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=639731832|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=639731832
 #EXTINF:-1 ,group-title="地方",徐州新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=639731747|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=639731747
 #EXTINF:-1 ,group-title="地方",优漫卡通频道
-http://106.54.4.180:11555/miguVIP.php?id=626064703|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=626064703
 #EXTINF:-1 ,group-title="地方",江阴新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=955227979|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=955227979
 #EXTINF:-1 ,group-title="地方",南通新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=955227985|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=955227985
 #EXTINF:-1 ,group-title="地方",宜兴新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=955227996|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=955227996
 #EXTINF:-1 ,group-title="地方",溧水新闻综合
-http://106.54.4.180:11555/miguVIP.php?id=639737327|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=639737327
 #EXTINF:-1 ,group-title="地方",陕西银龄频道
-http://106.54.4.180:11555/miguVIP.php?id=956909362|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=956909362
 #EXTINF:-1 ,group-title="地方",陕西都市青春频道
-http://106.54.4.180:11555/miguVIP.php?id=956909358|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=956909358
 #EXTINF:-1 ,group-title="地方",陕西体育休闲频道
-http://106.54.4.180:11555/miguVIP.php?id=956909356|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=956909356
 #EXTINF:-1 ,group-title="地方",陕西秦腔频道
-http://106.54.4.180:11555/miguVIP.php?id=956909303|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=956909303
 #EXTINF:-1 ,group-title="地方",陕西新闻资讯频道
-http://106.54.4.180:11555/miguVIP.php?id=956909289|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=956909289
 
 #EXTINF:-1 ,group-title="其他",CCTV4欧洲
-http://106.54.4.180:11555/miguVIP.php?id=608807419|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=608807419
 #EXTINF:-1 ,group-title="其他",CCTV4美洲
-http://106.54.4.180:11555/miguVIP.php?id=608807416|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=608807416
 
 #EXTINF:-1 ,group-title="其他",老故事
-http://106.54.4.180:11555/miguVIP.php?id=884121956|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=884121956
 #EXTINF:-1 ,group-title="其他",发现之旅
-http://106.54.4.180:11555/miguVIP.php?id=624878970|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=624878970
 
 
 #EXTINF:-1 ,group-title="电影",CHC影迷电影
-http://106.54.4.180:11555/miguVIP.php?id=952383261|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=952383261
 #EXTINF:-1 ,group-title="电影",CHC动作电影
-http://106.54.4.180:11555/miguVIP.php?id=644368714|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=644368714
 #EXTINF:-1 ,group-title="电影",CHC家庭影院
-http://106.54.4.180:11555/miguVIP.php?id=644368373|Referer=https://www.miguvideo.com/  User-Agent=Mozilla/5.0%20Windows%20NT%2010.0;%20Win64;%20x64%20AppleWebKit/537.36%20KHTML,%20like%20Gecko%20Chrome/120.0.0.0%20Safari/537.36
+http://106.54.4.180:11555/miguVIP.php?id=644368373
