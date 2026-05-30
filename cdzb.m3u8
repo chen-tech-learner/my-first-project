@@ -270,100 +270,100 @@ http://106.54.4.180:11555/miguVIP.php?id=644368714
 #EXTVLCOPT:http-referrer=https://www.miguvideo.com/
 http://106.54.4.180:11555/miguVIP.php?id=644368373
 
-
+#EXTINF:-1 ,group-title="港台",华文八套
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cgtn.com/
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-
+#EXTINF:-1 ,group-title="港台",华文七套
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cgtn.com/
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-
+#EXTINF:-1 ,group-title="港台",华文三套
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cgtn.com/
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
+#EXTINF:-1 ,group-title="港台",华文四套
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cgtn.com/
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-
+#EXTINF:-1 ,group-title="港台",华文五套
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cgtn.com/
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#EXTINF:-1 ,功夫台
+#EXTINF:-1 ,group-title="港台",功夫台
 http://49.232.143.177:80/pyxg/export.php?id=17&key=cc89
-#EXTINF:-1 ,天映經典
+#EXTINF:-1 ,group-title="港台",天映經典
 http://49.232.143.177:80/pyxg/export.php?id=18&key=cc89
-#EXTINF:-1 ,美亚电影台
+#EXTINF:-1 ,group-title="港台",美亚电影台
 http://49.232.143.177:80/pyxg/export.php?id=19&key=cc89
-#EXTINF:-1 ,POPC
+#EXTINF:-1 ,group-title="港台",POPC
 http://49.232.143.177:80/pyxg/export.php?id=20&key=cc89
-#EXTINF:-1 ,中國電影
+#EXTINF:-1 ,group-title="港台",中國電影
 http://49.232.143.177:80/pyxg/export.php?id=21&key=cc89
-#EXTINF:-1 ,中視
+#EXTINF:-1 ,group-title="港台",中視
 http://49.232.143.177:80/pyxg/export.php?id=22&key=cc89
-#EXTINF:-1 ,華視
+#EXTINF:-1 ,group-title="港台",華視
 http://49.232.143.177:80/pyxg/export.php?id=23&key=cc89
-#EXTINF:-1 ,民視
+#EXTINF:-1 ,group-title="港台",民視
 http://49.232.143.177:80/pyxg/export.php?id=24&key=cc89
-#EXTINF:-1 ,民視台灣
+#EXTINF:-1 ,group-title="港台",民視台灣
 http://49.232.143.177:80/pyxg/export.php?id=25&key=cc89
-#EXTINF:-1 ,民視第一
+#EXTINF:-1 ,group-title="港台",民視第一
 http://49.232.143.177:80/pyxg/export.php?id=26&key=cc89
-#EXTINF:-1 ,台視
+#EXTINF:-1 ,group-title="港台",台視
 http://49.232.143.177:80/pyxg/export.php?id=27&key=cc89
-#EXTINF:-1 ,台視綜合
+#EXTINF:-1 ,group-title="港台",台視綜合
 http://49.232.143.177:80/pyxg/export.php?id=28&key=cc89
-#EXTINF:-1 ,公視
+#EXTINF:-1 ,group-title="港台",公視
 http://49.232.143.177:80/pyxg/export.php?id=29&key=cc89
-#EXTINF:-1 ,中天綜合
+#EXTINF:-1 ,group-title="港台",中天綜合
 http://49.232.143.177:80/pyxg/export.php?id=30&key=cc89
-#EXTINF:-1 ,八大綜合
+#EXTINF:-1 ,group-title="港台",八大綜合
 http://49.232.143.177:80/pyxg/export.php?id=31&key=cc89
-#EXTINF:-1 ,八大第一
+#EXTINF:-1 ,group-title="港台",八大第一
 http://49.232.143.177:80/pyxg/export.php?id=32&key=cc89
-#EXTINF:-1 ,東森綜合
+#EXTINF:-1 ,group-title="港台",東森綜合
 http://49.232.143.177:80/pyxg/export.php?id=33&key=cc89
-#EXTINF:-1 ,东森電影
+#EXTINF:-1 ,group-title="港台",东森電影
 http://49.232.143.177:80/pyxg/export.php?id=34&key=cc89
-#EXTINF:-1 ,緯來電影
+#EXTINF:-1 ,group-title="港台",緯來電影
 http://49.232.143.177:80/pyxg/export.php?id=35&key=cc89
-#EXTINF:-1 ,龍華電影
+#EXTINF:-1 ,group-title="港台",龍華電影
 http://49.232.143.177:80/pyxg/export.php?id=39&key=cc89
-#EXTINF:-1 ,龍華經典
+#EXTINF:-1 ,group-title="港台",龍華經典
 http://49.232.143.177:80/pyxg/export.php?id=40&key=cc89
-#EXTINF:-1 ,龍翔時代
+#EXTINF:-1 ,group-title="港台",龍翔時代
 http://49.232.143.177:80/pyxg/export.php?id=41&key=cc89
-#EXTINF:-1 ,好萊塢電影
+#EXTINF:-1 ,group-title="港台",好萊塢電影
 http://49.232.143.177:80/pyxg/export.php?id=42&key=cc89
-#EXTINF:-1 ,TvbS
+#EXTINF:-1 ,group-title="港台",TvbS
 http://49.232.143.177:80/pyxg/export.php?id=43&key=cc89
-#EXTINF:-1 ,中天新聞
+#EXTINF:-1 ,group-title="港台",中天新聞
 http://49.232.143.177:80/pyxg/export.php?id=44&key=cc89
-#EXTINF:-1 ,東森新聞
+#EXTINF:-1 ,group-title="港台",東森新聞
 http://49.232.143.177:80/pyxg/export.php?id=45&key=cc89
-#EXTINF:-1 ,環宇新聞
+#EXTINF:-1 ,group-title="港台",環宇新聞
 http://49.232.143.177:80/pyxg/export.php?id=46&key=cc89
-#EXTINF:-1 ,華視新聞
+#EXTINF:-1 ,group-title="港台",華視新聞
 http://49.232.143.177:80/pyxg/export.php?id=47&key=cc89
-#EXTINF:-1 ,中視新聞
+#EXTINF:-1 ,group-title="港台",中視新聞
 http://49.232.143.177:80/pyxg/export.php?id=48&key=cc89
-#EXTINF:-1 ,台視新聞
+#EXTINF:-1 ,group-title="港台",台視新聞
 http://49.232.143.177:80/pyxg/export.php?id=49&key=cc89
-#EXTINF:-1 ,民視新聞
+#EXTINF:-1 ,group-title="港台",民視新聞
 http://49.232.143.177:80/pyxg/export.php?id=50&key=cc89
-#EXTINF:-1 ,TVBS 新聞
+#EXTINF:-1 ,group-title="港台",TVBS 新聞
 http://49.232.143.177:80/pyxg/export.php?id=51&key=cc89
-#EXTINF:-1 ,非凡新聞
+#EXTINF:-1 ,group-title="港台",非凡新聞
 http://49.232.143.177:80/pyxg/export.php?id=55&key=cc89
-#EXTINF:-1 ,鏡新聞
+#EXTINF:-1 ,group-title="港台",鏡新聞
 http://49.232.143.177:80/pyxg/export.php?id=56&key=cc89
-#EXTINF:-1 ,緯來體育
+#EXTINF:-1 ,group-title="港台",緯來體育
 http://49.232.143.177:80/pyxg/export.php?id=58&key=cc89
-#EXTINF:-1 ,NBATV
+#EXTINF:-1 ,group-title="港台",NBATV
 http://49.232.143.177:80/pyxg/export.php?id=59&key=cc89
-#EXTINF:-1 ,松視1台
+#EXTINF:-1 ,group-title="港台",松視1台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 ,松視2台
+#EXTINF:-1 ,group-title="港台",松視2台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
