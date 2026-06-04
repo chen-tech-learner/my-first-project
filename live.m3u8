@@ -1348,30 +1348,11 @@ http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.140:8001
 http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.139:8001
 #EXTINF:-1 ,,group-title="地方",*北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 ,,group-title="地方",*北京新闻
-https://ls.qingting.fm/live/339/64k.m3u8
-#EXTINF:-1 ,,group-title="其他",*本是凉薄之人怎暖他人
-https://live.ottiptv.cc/huya/21059630
-#EXTINF:-1 ,,group-title="其他",*鼻屎多少卡
-https://live.ottiptv.cc/huya/30080195
-#EXTINF:-1 ,,group-title="其他",*必须在11点前睡觉
-https://live.ottiptv.cc/huya/23865025
+
 #EXTINF:-1 ,,group-title="地方",*璧山综合
 http://222.179.42.129:8181/hls1.m3u8
-#EXTINF:-1 ,,group-title="其他",*彪哥的日常
-https://live.ottiptv.cc/huya/23650804
-#EXTINF:-1 ,,group-title="其他",*飙车的老司机
-https://live.ottiptv.cc/huya/11352894
-#EXTINF:-1 ,,group-title="其他",*别和陌生人说话
-https://live.ottiptv.cc/huya/21059573
-#EXTINF:-1 ,,group-title="其他",*斌哥漫说2
-https://live.ottiptv.cc/huya/21059621
 #EXTINF:-1 ,,group-title="地方",*滨海新闻综合
 http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
-
-
-
-
 #EXTINF:-1 ,,group-title="轮播",*陈翔六点半
 https://live.ottiptv.cc/huya/11274154
 #EXTINF:-1 ,,group-title="轮播",*成龙
@@ -1384,15 +1365,6 @@ http://192.151.150.154/live/lbcl.m3u8
 http://198.204.228.26/live/lbcl.m3u8
 #EXTINF:-1 ,,group-title="轮播",*成龙历险记
 http://cfss.cc/cdn/huya/11352946.flv
-
-#EXTINF:-1 ,,group-title="轮播",*第一放映室
-https://live.ottiptv.cc/huya/11352979
-#EXTINF:-1 ,,group-title="其他",*缔爵丶小阿杜
-https://live.ottiptv.cc/huya/16755322
-#EXTINF:-1 ,,group-title="其他",*电竞也要专用机
-https://live.ottiptv.cc/huya/26355816
-#EXTINF:-1 ,,group-title="其他",*电音857
-https://live.ottiptv.cc/huya/20432231
 #EXTINF:-1 ,,group-title="轮播",*电影_不挤影院
 http://cfss.cc/cdn/huya/11352897.flv
 #EXTINF:-1 ,,group-title="轮播",*电影_高分动作
