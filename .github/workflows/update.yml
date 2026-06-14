@@ -1,4 +1,3 @@
-
 name: Auto Update IPTV
 on:
   schedule:
@@ -11,6 +10,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,8 +26,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --local user.email "chen-tech-learner@users.noreply.github.com"
-          git config --local user.name "chen-tech-learner"
-          git add .
-          git commit -m "Auto update IPTV at $(date)" || echo "No changes to commit"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add cd4wb8.m3u
+          git commit -m "Auto update IPTV list" || echo "No changes to commit"
           git push
