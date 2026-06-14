@@ -1,0 +1,32 @@
+
+name: Auto Update IPTV
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "chen-tech-learner@users.noreply.github.com"
+          git config --local user.name "chen-tech-learner"
+          git add .
+          git commit -m "Auto update IPTV at $(date)" || echo "No changes to commit"
+          git push
