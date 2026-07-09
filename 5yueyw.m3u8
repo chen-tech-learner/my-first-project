@@ -1,369 +1,366 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV13
-http://58.17.89.7:8081/hls/13/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV1
-http://58.17.89.7:8081/hls/1/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV2
-http://58.17.89.7:8081/hls/2/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV3
-http://58.17.89.7:8081/hls/3/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV4
-http://58.17.89.7:8081/hls/4/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV5
-http://58.17.89.7:8081/hls/5/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV6
-http://58.17.89.7:8081/hls/6/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV7
-http://58.17.89.7:8081/hls/7/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV8
-http://58.17.89.7:8081/hls/8/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV9
-http://58.17.89.7:8081/hls/9/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV10
-http://58.17.89.7:8081/hls/10/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV11
-http://58.17.89.7:8081/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV12
-http://58.17.89.7:8081/hls/12/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV14
-http://58.17.89.7:8081/hls/15/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV15
-http://58.17.89.7:8081/hls/14/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV16
-http://58.17.89.7:8081/hls/16/index.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV17
-http://58.17.89.7:8081/hls/17/index.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",河北4k
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",浙江卫视4K
-http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",浙江卫视4K
-http://rihou.cc:555/tv/浙江卫视4K
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",湖北卫视(RH)
-http://rihou.cc:555/tv/湖北卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",广西卫视
-http://rihou.cc:555/tv/广西卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",黑龙江卫视
-http://rihou.cc:555/tv/黑龙江卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",海南卫视
-http://rihou.cc:555/tv/海南卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",重庆卫视
-http://rihou.cc:555/tv/重庆卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",河南卫视
-http://rihou.cc:555/tv/河南卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",福建东南卫视
-http://rihou.cc:555/tv/福建东南卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",贵州卫视
-http://rihou.cc:555/tv/贵州卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",江西卫视
-http://rihou.cc:555/tv/江西卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",辽宁卫视
-http://rihou.cc:555/tv/辽宁卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",安徽卫视
-http://rihou.cc:555/tv/安徽卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",河北卫视
-http://rihou.cc:555/tv/河北卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",山东卫视
-http://rihou.cc:555/tv/山东卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",新疆卫视
-http://rihou.cc:555/tv/新疆卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",大湾区卫视
-http://rihou.cc:555/tv/大湾区卫视1
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",延边卫视
-http://rihou.cc:555/tv/延边卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",三沙卫视
-http://rihou.cc:555/tv/三沙卫视
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",厦门卫视
-http://rihou.cc:555/tv/厦门卫视
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-1
-http://107.150.60.122/live/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-2
-http://107.150.60.122/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-2
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-3
-http://107.150.60.122/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-3
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-4
-http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-4
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-5
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-5+
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-6
-http://107.150.60.122/live/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-6
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-7
-http://107.150.60.122/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-7
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-8
-http://107.150.60.122/live/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-8
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-9
-http://107.150.60.122/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-10
-http://107.150.60.122/live/cctv10hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-12
-http://107.150.60.122/live/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-13
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-14
-http://107.150.60.122/live/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-14
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-15
-http://107.150.60.122/live/cctv15hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-15
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-16
-http://107.150.60.122/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-17
-http://107.150.60.122/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV-17
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CGTN英语
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CGTN记录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CGTN俄语
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CGTN法语
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",东南卫视
-http://107.150.60.122/live/dnwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",东南卫视
-http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",东方卫视
-http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",东方卫视
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",云南卫视
-http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",北京卫视
-http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",吉林卫视
-http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",四川卫视
-http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",天津卫视
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",天津卫视
-http://107.150.60.122/live/tjwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",山东卫视
-http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",山东卫视
-http://107.150.60.122/live/sdwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",广西卫视
-http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",江苏卫视
-http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",江苏卫视
-http://107.150.60.122/live/jswshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",江西卫视
-http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",河北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",河南卫视
-http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",浙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",深圳卫视
-http://107.150.60.122/live/szwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",湖北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",湖北卫视
-http://107.150.60.122/live/hbwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",湖南卫视
-http://107.150.60.122/live/hnwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",甘肃卫视
-http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",西藏卫视
-http://107.150.60.122/live/xzws.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",辽宁卫视
-http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",辽宁卫视
-http://107.150.60.122/live/lnwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",重庆卫视
-http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",重庆卫视
-http://107.150.60.122/live/cqwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",陕西卫视
-http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",陕西卫视
-http://107.150.60.122/live/snwshd.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",青海卫视
-http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",浙江卫视4K
-https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
-#EXTINF:-1 group-title="卫视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",湖南卫视4K
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV1
-http://159.75.3.29:8888/608807420
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV2
-http://159.75.3.29:8888/631780532
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV3
-http://159.75.3.29:8888/624878271
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV4
-http://159.75.3.29:8888/631780421
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV5
-http://159.75.3.29:8888/641886683
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV5
-http://159.75.3.29:8888/641886773
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV6
-http://159.75.3.29:8888/624878396
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV7
-http://159.75.3.29:8888/673168121
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV8
-http://159.75.3.29:8888/624878356
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV9
-http://159.75.3.29:8888/673168140
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV10
-http://159.75.3.29:8888/624878405
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV11
-http://159.75.3.29:8888/667987558
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV12
-http://159.75.3.29:8888/673168185
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV13
-http://159.75.3.29:8888/608807423
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV14
-http://159.75.3.29:8888/624878440
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV15
-http://159.75.3.29:8888/673168223
-#EXTINF:-1 group-title="央视" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",CCTV17
-http://159.75.3.29:8888/673168256
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",凤凰中文
-http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",Wild TV
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",TVB翡翠(馬來)
-http://iptv.4666888.xyz/iptv2A.php?id=28
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",TVB明珠
-http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",千禧經典
-http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",HOY77
-http://iptv.4666888.xyz/iptv2A.php?id=35
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",RTHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",TVB娛樂新聞
-http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",MYTV黃金翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=32
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",八度空間
-http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",天映频道
-http://o11.163189.xyz/stream/live/typd/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",天映经典
-http://o11.163189.xyz/stream/live/ccm/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",星空卫视
-http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/绍兴/电信
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",金光布袋戏
-http://o11.163189.xyz/stream/live/jgbdx/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",龙华电影
-http://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",龙华经典
-http://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",龙华偶像
-http://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",龙华日韩
-http://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",龙华戏剧
-http://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 group-title="电影" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",1905流金岁月
-https://cdn.jdshipin.com/1905.php
-#EXTINF:-1 group-title="电影" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",重温经典
-http://rihou.cc:555/tv/重温经典
-#EXTINF:-1 group-title="电影" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",新视觉HD
-http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",凤凰中文
-https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",凤凰资讯
-https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",凤凰香港
-https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",翡翠台4K
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",翡翠台
-https://cdn6.163189.xyz/163189/fct
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",娱乐新闻
-https://cdn6.163189.xyz/163189/ylxw
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",无线新闻
-https://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",华丽翡翠
-https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",华丽翡翠(新加坡)
-http://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",Now新闻
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",HOY 77
-http://cdn.163189.xyz/163189/hoy
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",VIUTV
-https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",TVB星河
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",TVB千禧经典
-https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",TVB武侠
-https://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",爱奇艺
-https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",Astro AEC
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",Astro AOD
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",RTHK 31
-http://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",RTHK 32
-http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",Channel [V]
-http://rihou.cc:555/tv/Channel+V
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",澳门体育
-http://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",澳门综艺
-http://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",澳门Macau
-https://cdn6.163189.xyz/163189/as
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",澳视澳门
-https://cdn6.163189.xyz/163189/asam
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",寰宇新聞
-http://rihou.cc:555/tv/寰宇新闻
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",东森新闻
-http://rihou.cc:555/tv/东森新闻
-#EXTINF:-1 group-title="港台" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",镜新闻
-http://rihou.cc:555/tv/镜新闻
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",伍佰
-http://vd3.bdstatic.com/mda-pe07i71fkd531zj1/sc/bd265_cae_roi_v5/1682947766065803786/mda-pe07i71fkd531zj1.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",做你的爱人
-http://vd4.bdstatic.com/mda-kmqgyhj16m8qgziu/mda-kmqgyhj16m8qgziu.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",Day by Day
-http://vd4.bdstatic.com/mda-ma39e363u5ebd33e/v1-cae/mda-ma39e363u5ebd33e.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",大家一起来
-http://vd4.bdstatic.com/mda-madrvwbtks7xk4t4/v1-cae/mda-madrvwbtks7xk4t4.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",水手粤语版
-http://vd4.bdstatic.com/mda-maennfh5abgkzfa3/v1-cae/mda-maennfh5abgkzfa3.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",合集涛声依旧
-https://vdse.bdstatic.com//db8ba0fda2aad9cb15aa32887a160f06.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",合集天路
-https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",合集驼铃草原歌曲
-https://vdse.bdstatic.com//f8f4740a4ca7ff31c3a2d8386fc14598.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",合集粤语上海滩
-https://vdse.bdstatic.com//f9cda7e70273c267b61a3d0c969d2033.mp4
-#EXTINF:-1 group-title="歌曲" User-Agent="Mozilla/5.0 Android; Mobile AppleWebKit/537.36 Chrome/114.0.0.0 Mobile Safari/537.36",合集刀郎敖包相会
-https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
+#EXTINF:-1 group-title="央视",13CCTV13-新闻
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",1CCTV1-综合
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",2CCTV2-财经
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",3CCTV3-综艺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",4CCTV4-国际
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",5CCTV5-体育
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",6CCTV6-电影
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",7CCTV7-军农
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",8CCTV8-电视剧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",10CCTV10-科教
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",11CCTV11-戏曲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",12CCTV12-社会与法
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",14CCTV-14少儿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",15CCTV15-音乐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",16CCTV5+体育赛事
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",17CCTV17-农村农业
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",18北京卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",19湖南卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",20浙江卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",21江苏卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",22广东卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",23湖北卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",24安徽卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",25山东卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",26青海卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",27东方卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",28四川卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",29天津卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",30江西卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",31陕西卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",32辽宁卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",33山西卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",34云南卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",35东南卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",76黑龙江卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",37深圳卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",38贵州卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",39西藏卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",40河南卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",41河北卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",42重庆卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",43吉林卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",44高清纪实
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",45奥林匹克
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",46兵团卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",47甘肃公共
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",48兰州新闻综合
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",49兰州旅游
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",50甘肃都市
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",51甘肃少儿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",52甘肃文化
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",53甘肃卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",54厦门卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",55纪实
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",56旅游卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",57内蒙古卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港台",58凤凰香港
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港台",59凤凰中文
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港台",60凤凰资讯
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他",61地理
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他",62足球
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他",63都市剧场
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他",64法制天地
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.178.227.57:9901/
+#EXTVLCOPT:http-header=Origin:http://61.178.227.57:9901/
+http://61.178.227.57:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港台",华藏卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.216.67.119:1935/
+#EXTVLCOPT:http-header=Origin:http://61.216.67.119:1935/
+http://61.216.67.119:1935/HZTV/HZTV/chunklist.m3u8
+#EXTINF:-1 group-title="港台",华藏卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.216.67.119:1935/
+#EXTVLCOPT:http-header=Origin:http://61.216.67.119:1935/
+http://61.216.67.119:1935/HZTV/HZTV/playlist.m3u8
+#EXTINF:-1 group-title="港台",纬来精彩频道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.221.215.25:8800/
+#EXTVLCOPT:http-header=Origin:http://61.221.215.25:8800/
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="港台",tvbs闽南频道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://61.221.215.25:8800/
+#EXTVLCOPT:http-header=Origin:http://61.221.215.25:8800/
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港台",华数电影
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://hmfs.f3322.net:3388/
+#EXTVLCOPT:http-header=Origin:http://hmfs.f3322.net:3388/
+http://hmfs.f3322.net:3388/hls/40/index.m3u8
+#EXTINF:-1 group-title="港台",邵氏动作
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://38.75.136.137:98/
+#EXTVLCOPT:http-header=Origin:http://38.75.136.137:98/
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="港台",邵氏喜剧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://38.75.136.137:98/
+#EXTVLCOPT:http-header=Origin:http://38.75.136.137:98/
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 group-title="港台",邵氏电影
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://38.75.136.137:98/
+#EXTVLCOPT:http-header=Origin:http://38.75.136.137:98/
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 group-title="港台",邵氏武侠
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=http://38.75.136.137:98/
+#EXTVLCOPT:http-header=Origin:http://38.75.136.137:98/
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 group-title="港台",奥地利红牛
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Linux; Android 9; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://rbmn-live.akamaized.net/
+#EXTVLCOPT:http-header=Origin:https://rbmn-live.akamaized.net/
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
