@@ -9,6 +9,15 @@
       "searchable": 0
     },
     {
+            "key": "全盛姿态",
+            "name": "全盛姿态",
+            "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    {
       "key": "csp_Netfixtv",
       "name": "🚀臻臻┃网盘4K",
       "type": 3,
