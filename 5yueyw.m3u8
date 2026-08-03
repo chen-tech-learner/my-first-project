@@ -1,91 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-1.png",cctv1
+#EXTINF:-1 ,cctv1
 http://1.24.39.180:808/hls/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-2.png",cctv2
+#EXTINF:-1 ,cctv2
 http://1.24.39.180:808/hls/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-3.png",cctv3
+#EXTINF:-1 ,cctv3
 http://1.24.39.180:808/hls/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-4.png",cctv4
+#EXTINF:-1 ,cctv4
 http://1.24.39.180:808/hls/4/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-5.png",cctv5
+#EXTINF:-1 ,cctv5
 http://1.24.39.180:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-6.png",cctv6
+#EXTINF:-1 ,cctv6
 http://1.24.39.180:808/hls/6/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-7.png",cctv7
+#EXTINF:-1 ,cctv7
 http://1.24.39.180:808/hls/7/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-8.png",cctv8
+#EXTINF:-1 ,cctv8
 http://1.24.39.180:808/hls/8/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-9.png",cctv9
+#EXTINF:-1 ,cctv9
 http://1.24.39.180:808/hls/9/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-10.png",cctv10
+#EXTINF:-1 ,cctv10
 http://1.24.39.180:808/hls/10/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-11.png",cctv11
+#EXTINF:-1 ,cctv11
 http://1.24.39.180:808/hls/11/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-12.png",cctv12
+#EXTINF:-1 ,cctv12
 http://1.24.39.180:808/hls/12/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-13.png",cctv13
+#EXTINF:-1 ,cctv13
 http://1.24.39.180:808/hls/13/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-14.png",cctv14
+#EXTINF:-1 ,cctv14
 http://1.24.39.180:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-15.png",cctv15
+#EXTINF:-1 ,cctv15
 http://1.24.39.180:808/hls/15/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙卫视蒙语
+#EXTINF:-1 ,内蒙卫视蒙语
 http://1.24.39.180:808/hls/16/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙卫视
+#EXTINF:-1 ,内蒙卫视
 http://1.24.39.180:808/hls/17/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙蒙语少儿
+#EXTINF:-1 ,内蒙蒙语少儿
 http://1.24.39.180:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙综合
+#EXTINF:-1 ,内蒙综合
 http://1.24.39.180:808/hls/19/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙生活
+#EXTINF:-1 ,内蒙生活
 http://1.24.39.180:808/hls/20/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙娱乐
+#EXTINF:-1 ,内蒙娱乐
 http://1.24.39.180:808/hls/21/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙农牧
+#EXTINF:-1 ,内蒙农牧
 http://1.24.39.180:808/hls/22/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙少儿
+#EXTINF:-1 ,内蒙少儿
 http://1.24.39.180:808/hls/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://616pic.com/down/192iw6kx7.png",芜湖经济生活频道
+#EXTINF:-1 ,芜湖经济生活频道
 http://1.24.39.180:808/hls/24/index.m3u8
-#EXTINF:-1 tvg-logo="https://616pic.com/down/192iw6kx7.png",芜湖新闻综合频道
+#EXTINF:-1 ,芜湖新闻综合频道
 http://1.24.39.180:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/inner-mongolia-tv.png",内蒙卫视
+#EXTINF:-1 ,内蒙卫视
 http://1.24.39.180:808/hls/27/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/hunan-tv.png",湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://1.24.39.180:808/hls/28/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/zhejiang-tv.png",浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://1.24.39.180:808/hls/29/index.m3u8
-#EXTINF:-1 tyg-logo="https://iptv-org.github.io/iptv/channels/logos/jiangsu-tv.png",江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://1.24.39.180:808/hls/30/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/anhui-tv.png",安徽卫视
+#EXTINF:-1 ,安徽卫视
 http://1.24.39.180:808/hls/31/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/guizhou-tv.png",贵州卫视
+#EXTINF:-1 ,贵州卫视
 http://1.24.39.180:808/hls/32/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/tianjin-tv.png",天津卫视
+#EXTINF:-1 ,天津卫视
 http://1.24.39.180:808/hls/33/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/shenzhen-tv.png",深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://1.24.39.180:808/hls/34/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/shandong-tv.png",山东卫视
+#EXTINF:-1 ,山东卫视
 http://1.24.39.180:808/hls/35/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/yunnan-tv.png",云南卫视
+#EXTINF:-1 ,云南卫视
 http://1.24.39.180:808/hls/36/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/henan-tv.png",河南卫视
+#EXTINF:-1 ,河南卫视
 http://1.24.39.180:808/hls/37/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/heilongjiang-tv.png",黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://1.24.39.180:808/hls/38/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/sichuan-tv.png",四川卫视
+#EXTINF:-1 ,四川卫视
 http://1.24.39.180:808/hls/39/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/hubei-tv.png",湖北卫视
+#EXTINF:-1 ,湖北卫视
 http://1.24.39.180:808/hls/43/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/dragon-tv.png",东方卫视
+#EXTINF:-1 ,东方卫视
 http://1.24.39.180:808/hls/44/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/fujian-tv.png",东南卫视
+#EXTINF:-1 ,东南卫视
 http://1.24.39.180:808/hls/46/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/hebei-tv.png",河北卫视
+#EXTINF:-1 ,河北卫视
 http://1.24.39.180:808/hls/47/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/guangdong-tv.png",广东卫视
+#EXTINF:-1 ,广东卫视
 http://1.24.39.180:808/hls/48/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-15.png",CCTV16
+#EXTINF:-1 ,CCTV16
 http://1.24.39.180:808/hls/60/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/iptv/channels/logos/cctv-15.png",CCTV17
+#EXTINF:-1 ,CCTV17
 http://1.24.39.180:808/hls/61/index.m3u8
