@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>直播源工具箱</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#1a1a1a;color:#eee;padding:15px;font-size:16px;line-height:1.8}
+.btnbox{display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap}
+button{padding:12px 18px;border:none;border-radius:6px;font-size:15px;cursor:pointer}
+#showBtn{background:#4CAF50;color:#fff}
+#copyBtn{background:#ff9800;color:#fff}
+#content{white-space:pre-wrap;background:#292929;padding:15px;border-radius:8px;word-break:break-all}
+.tips{color:#ccc;margin-top:10px;font-size:14px}
+</style>
+</head>
+<body>
+<div class="btnbox">
+<button id="showBtn">查看全部线路</button>
+<button id="copyBtn">一键复制全部链接</button>
+</div>
+<div id="content">小凯直播:https://d.k.store.dev/download/6457/xktv.txt
+小凯酒店:https://d.k.store.dev/download/6457/xkzb.txt
+日后直播:http://rihou.cc:555/gggg.nzk
+裤佬直播:https://live.445569.xyz/live.m3u
+王子多情:http://wangziduoking.com/yuan/zb.txt
+蜂果直播:https://pub.tgyes.eu.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/
+</div>
+<div class="disclaimer">
+免责声明：
+1.本工具仅做技术学习交流使用，所有直播线路均来源于网络公开资源，本人不存储、不上传任何影音版权
+2.禁止将本工具用于商业盈利、公开大范围传播，仅可个人本地测试使用
+3.若涉及版权侵权，请联系下架删除，使用者自行承担使用带来的全部法律责任。
+</div>
+
+<script>
+let contentBox = document.getElementById('content');
+let showBtn = document.getElementById('showBtn');
+let copyBtn = document.getElementById('copyBtn');
+let allText = contentBox.innerText;
+contentBox.style.display = 'none';
+showBtn.onclick = function(){
+    if(contentBox.style.display === 'none'){
+        contentBox.style.display = 'block';
+        showBtn.innerText = '隐藏线路';
+    }else{
+        contentBox.style.display = 'none';
+        showBtn.innerText = '查看全部线路';
+    }
+}
+copyBtn.onclick = async function(){
+    try{
+        await navigator.clipboard.writeText(allText);
+        alert('全部直播源复制成功，可以直接粘贴使用！');
+    }catch(err){
+        alert('复制失败，请手动选中文字复制');
+    }
+}
+</script>
+</body>
+</html>
