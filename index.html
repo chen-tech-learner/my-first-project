@@ -16,6 +16,38 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 .all-copy{margin-bottom:15px}
 #copyAll{background:#ff9800;border:none;color:#fff;padding:10px 16px;border-radius:4px;cursor:pointer;font-size:15px}
 .disclaimer{margin-top:30px;color:#cccccc;font-size:14px;line-height:1.7}
+/*弹窗样式*/
+#previewModal{
+    display:none;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.85);
+    z-index:999;
+    padding:30px;
+}
+.modal-box{
+    background:#222;
+    padding:20px;
+    border-radius:8px;
+    max-width:900px;
+    margin:0 auto;
+    max-height:80vh;
+    overflow:auto;
+    white-space:pre-wrap;
+    color:#eee;
+}
+.close-modal{
+    background:#f44336;
+    color:#fff;
+    border:none;
+    padding:6px 12px;
+    border-radius:4px;
+    cursor:pointer;
+    margin-bottom:15px;
+}
 </style>
 </head>
 <body>
@@ -36,7 +68,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifa.txt')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -45,7 +77,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('http://iptv.4666888.xyz/FYTV.txt')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -54,7 +86,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -63,7 +95,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -72,7 +104,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('http://www.52top.com.cn:678/downloads/migu.txt')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -81,7 +113,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/Live/refs/heads/main/source/migu.m3u')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -90,7 +122,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('https://gh-proxy.com/https://raw.githubusercontent.com/cyh807084707/zv/refs/heads/main/sege.txt')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -99,7 +131,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('https://d.k.storedev.cn/download/Live/9565/小新TV.txt')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -108,7 +140,7 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('https://Live.445569.xyz/Live.m3u')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
@@ -117,12 +149,20 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 <td></td>
 <td>
 <button class="btn-test" onclick="window.open('https://pub.tgyes.eu.org/555.txt')">检测</button>
-<button class="btn-preview">预览</button>
+<button class="btn-preview" onclick="openPreview(this)">预览</button>
 <button class="btn-copy" onclick="copySingle(this)">复制</button>
 </td>
 </tr>
 </tbody>
 </table>
+<!--预览弹窗-->
+<div id="previewModal">
+    <div class="modal-box">
+        <button class="close-modal" onclick="closePreview()">关闭弹窗</button>
+        <div id="previewContent"></div>
+    </div>
+</div>
+
 <div class="disclaimer">
 免责声明：
 1.本工具仅供技术学习交流使用，所有直播线路均来源于网络公开资源，本人不存储、不上传任何影音版权
@@ -130,6 +170,24 @@ td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-a
 3.若涉及版权侵权，请联系下架删除，使用者自行承担使用带来的全部法律责任。
 </div>
 <script>
+//弹窗关闭
+function closePreview(){
+    document.getElementById('previewModal').style.display = 'none';
+}
+//打开预览弹窗
+async function openPreview(btn){
+    let url = btn.closest('tr').querySelector('td:first-child').innerText.trim();
+    let modal = document.getElementById('previewModal');
+    let contentBox = document.getElementById('previewContent');
+    modal.style.display = 'block';
+    contentBox.innerText = "正在加载链接内容...";
+    try{
+        //跨域限制，无法直接读取内容，直接展示链接文本
+        contentBox.innerText = "预览链接地址：\n"+url+"\n\n受浏览器跨域限制，无法直接读取文件内容，点击检测新窗口打开查看完整内容";
+    }catch(e){
+        contentBox.innerText = "预览失败，跨域无法读取";
+    }
+}
 //单条链接复制
 function copySingle(btn){
     let url = btn.closest('tr').querySelector('td:first-child').innerText.trim();
@@ -150,6 +208,10 @@ document.getElementById('copyAll').addEventListener('click',()=>{
     }).catch(()=>{
         alert('批量复制失败，手动复制表格内容');
     })
+})
+//点击遮罩关闭弹窗
+document.getElementById('previewModal').addEventListener('click',function(e){
+    if(e.target === this) closePreview();
 })
 </script>
 </body>
