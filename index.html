@@ -3,53 +3,154 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>直播源工具箱</title>
+<title>TV链接管理</title>
 <style>
-*{margin:0;padding:0;box-sizing:border-box;font-size:16px;line-height:1.8}
-body{background:#1a1a1a;color:#eee;padding:15px;}
-.btnbox{display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap}
-button{padding:12px 18px;border:none;border-radius:6px;font-size:15px;cursor:pointer}
-#copyBtn{background:#ff9800;color:#fff}
-.testBtn{background:#2196F3;color:#fff;margin-left:8px;padding:4px 8px;font-size:13px}
-#content{white-space:pre-wrap;background:#292929;padding:15px;border-radius:8px;word-break:break-all;margin-bottom:20px}
-.disclaimer{color:#ccc;font-size:14px;line-height:1.6}
+*{margin:0;padding:0;box-sizing:border-box;font-family:Microsoft YaHei}
+body{background:#121212;color:#ffffff;padding:20px}
+table{width:100%;border-collapse:collapse;margin-top:15px}
+th{background:#1f1f1f;border:1px solid #333;padding:12px 10px;text-align:left}
+td{background:#181818;border:1px solid #333;padding:12px 10px;word-break:break-all}
+.btn-test{background:#2378eb;color:#fff;border:none;padding:5px 9px;border-radius:3px;cursor:pointer;margin:0 2px}
+.btn-preview{background:#505050;color:#fff;border:none;padding:5px 9px;border-radius:3px;cursor:pointer;margin:0 2px}
+.btn-copy{background:#2fb84f;color:#fff;border:none;padding:5px 9px;border-radius:3px;cursor:pointer;margin:0 2px}
+.all-copy{margin-bottom:15px}
+#copyAll{background:#ff9800;border:none;color:#fff;padding:10px 16px;border-radius:4px;cursor:pointer;font-size:15px}
+.disclaimer{margin-top:30px;color:#cccccc;font-size:14px;line-height:1.7}
 </style>
 </head>
 <body>
-<div class="btnbox">
-<button id="copyBtn">一键复制全部链接</button>
+<div class="all-copy">
+<button id="copyAll">一键复制全部链接</button>
 </div>
-<div id="content">
-直播1:http://1.94.31.214/Live/Live9/dgtv.txt <button class="testBtn" onclick="window.open('http://1.94.31.214/Live/Live9/dgtv.txt')">检测</button>
-直播2:https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifa.txt <button class="testBtn" onclick="window.open('https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifa.txt')">检测</button>
-直播3:http://iptv.4666888.xyz/FYTV.txt <button class="testBtn" onclick="window.open('http://iptv.4666888.xyz/FYTV.txt')">检测</button>
-直播4:https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt <button class="testBtn" onclick="window.open('https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt')">检测</button>
-直播5:https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive <button class="testBtn" onclick="window.open('https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive')">检测</button>
-直播6:http://www.52top.com.cn:678/downloads/migu.txt <button class="testBtn" onclick="window.open('http://www.52top.com.cn:678/downloads/migu.txt')">检测</button>
-直播7:https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/Live/refs/heads/main/source/migu.m3u <button class="testBtn" onclick="window.open('https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/Live/refs/heads/main/source/migu.m3u')">检测</button>
-直播8:https://gh-proxy.com/https://raw.githubusercontent.com/cyh807084707/zv/refs/heads/main/sege.txt <button class="testBtn" onclick="window.open('https://gh-proxy.com/https://raw.githubusercontent.com/cyh807084707/zv/refs/heads/main/sege.txt')">检测</button>
-直播9:https://d.k.storedev.cn/download/Live/9565/小新TV.txt <button class="testBtn" onclick="window.open('https://d.k.storedev.cn/download/Live/9565/小新TV.txt')">检测</button>
-直播10:https://Live.445569.xyz/Live.m3u <button class="testBtn" onclick="window.open('https://Live.445569.xyz/Live.m3u')">检测</button>
-直播11:https://pub.tgyes.eu.org/555.txt <button class="testBtn" onclick="window.open('https://pub.tgyes.eu.org/555.txt')">检测</button>
-</div>
+<table>
+<thead>
+<tr>
+<th>链接 URL</th>
+<th>状态</th>
+<th>操作</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifa.txt</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifa.txt')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>http://iptv.4666888.xyz/FYTV.txt</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('http://iptv.4666888.xyz/FYTV.txt')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>http://www.52top.com.cn:678/downloads/migu.txt</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('http://www.52top.com.cn:678/downloads/migu.txt')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/Live/refs/heads/main/source/migu.m3u</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/Live/refs/heads/main/source/migu.m3u')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>https://gh-proxy.com/https://raw.githubusercontent.com/cyh807084707/zv/refs/heads/main/sege.txt</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('https://gh-proxy.com/https://raw.githubusercontent.com/cyh807084707/zv/refs/heads/main/sege.txt')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>https://d.k.storedev.cn/download/Live/9565/小新TV.txt</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('https://d.k.storedev.cn/download/Live/9565/小新TV.txt')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>https://Live.445569.xyz/Live.m3u</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('https://Live.445569.xyz/Live.m3u')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+<tr>
+<td>https://pub.tgyes.eu.org/555.txt</td>
+<td></td>
+<td>
+<button class="btn-test" onclick="window.open('https://pub.tgyes.eu.org/555.txt')">检测</button>
+<button class="btn-preview">预览</button>
+<button class="btn-copy" onclick="copySingle(this)">复制</button>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="disclaimer">
 免责声明：
-1.本工具仅做技术学习交流使用，所有直播线路均来源于网络公开资源，本人不存储、不上传任何影音版权
+1.本工具仅供技术学习交流使用，所有直播线路均来源于网络公开资源，本人不存储、不上传任何影音版权
 2.禁止将本工具用于商业盈利、公开大范围传播，仅可个人本地测试使用
 3.若涉及版权侵权，请联系下架删除，使用者自行承担使用带来的全部法律责任。
 </div>
 <script>
-let contentBox = document.getElementById('content');
-let allText = contentBox.innerText;
-let copyBtn = document.getElementById('copyBtn');
-copyBtn.onclick = async function(){
-    try{
-        await navigator.clipboard.writeText(allText);
-        alert('全部直播源复制成功，可以直接粘贴使用！');
-    }catch(err){
-        alert('复制失败，请手动选中文字复制');
-    }
+//单条链接复制
+function copySingle(btn){
+    let url = btn.closest('tr').querySelector('td:first-child').innerText.trim();
+    navigator.clipboard.writeText(url).then(()=>{
+        alert('链接复制成功');
+    }).catch(()=>{
+        alert('复制失败，请手动选中链接复制');
+    })
 }
+//全部链接一键复制
+document.getElementById('copyAll').addEventListener('click',()=>{
+    let allLink = '';
+    document.querySelectorAll('tbody tr').forEach(row=>{
+        allLink += row.querySelector('td:first-child').innerText.trim()+'\n';
+    })
+    navigator.clipboard.writeText(allLink).then(()=>{
+        alert('全部链接复制完成');
+    }).catch(()=>{
+        alert('批量复制失败，手动复制表格内容');
+    })
+})
 </script>
 </body>
 </html>
