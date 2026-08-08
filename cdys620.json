@@ -919,7 +919,7 @@
         "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
         "Logo": "https://epg.v1.mk/Logo/{name}.png"
     }
-]
+],
   "doh": [
     {
       "name": "Google",
