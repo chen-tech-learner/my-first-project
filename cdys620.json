@@ -857,6 +857,15 @@
       "quickSearch": 0,
       "filterable": 0
     },
+     {
+      "key": "zp100",
+      "name": "乐播🔞18+",
+      "type": 0,
+      "api": "http://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "*番号资源",
       "name": "🔞┃番号资源(可能要🪜)",
