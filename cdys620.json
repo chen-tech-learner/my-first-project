@@ -896,13 +896,6 @@
   ],
   "parses": [],
   "lives": [
-     {
-        "name": "综合直播",
-        "type": 0,
-        "playerType": 2,
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/%E8%87%B3%E5%B0%8A.m3u",
-        "ua": "bingcha/1.1 (mianfeifenxiang)"
-    },
     {
         "name": "全国组播",
         "type": "0",
