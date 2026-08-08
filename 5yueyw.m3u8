@@ -1,91 +1,35 @@
 #EXTM3U
-#EXTINF:-1 ,cctv1
-http://1.24.39.180:808/hls/1/index.m3u8
-#EXTINF:-1 ,cctv2
-http://1.24.39.180:808/hls/2/index.m3u8
-#EXTINF:-1 ,cctv3
-http://1.24.39.180:808/hls/3/index.m3u8
-#EXTINF:-1 ,cctv4
-http://1.24.39.180:808/hls/4/index.m3u8
-#EXTINF:-1 ,cctv5
-http://1.24.39.180:808/hls/5/index.m3u8
-#EXTINF:-1 ,cctv6
-http://1.24.39.180:808/hls/6/index.m3u8
-#EXTINF:-1 ,cctv7
-http://1.24.39.180:808/hls/7/index.m3u8
-#EXTINF:-1 ,cctv8
-http://1.24.39.180:808/hls/8/index.m3u8
-#EXTINF:-1 ,cctv9
-http://1.24.39.180:808/hls/9/index.m3u8
-#EXTINF:-1 ,cctv10
-http://1.24.39.180:808/hls/10/index.m3u8
-#EXTINF:-1 ,cctv11
-http://1.24.39.180:808/hls/11/index.m3u8
-#EXTINF:-1 ,cctv12
-http://1.24.39.180:808/hls/12/index.m3u8
-#EXTINF:-1 ,cctv13
-http://1.24.39.180:808/hls/13/index.m3u8
-#EXTINF:-1 ,cctv14
-http://1.24.39.180:808/hls/14/index.m3u8
-#EXTINF:-1 ,cctv15
-http://1.24.39.180:808/hls/15/index.m3u8
-#EXTINF:-1 ,内蒙卫视蒙语
-http://1.24.39.180:808/hls/16/index.m3u8
-#EXTINF:-1 ,内蒙卫视
-http://1.24.39.180:808/hls/17/index.m3u8
-#EXTINF:-1 ,内蒙蒙语少儿
-http://1.24.39.180:808/hls/18/index.m3u8
-#EXTINF:-1 ,内蒙综合
-http://1.24.39.180:808/hls/19/index.m3u8
-#EXTINF:-1 ,内蒙生活
-http://1.24.39.180:808/hls/20/index.m3u8
-#EXTINF:-1 ,内蒙娱乐
-http://1.24.39.180:808/hls/21/index.m3u8
-#EXTINF:-1 ,内蒙农牧
-http://1.24.39.180:808/hls/22/index.m3u8
-#EXTINF:-1 ,内蒙少儿
-http://1.24.39.180:808/hls/23/index.m3u8
-#EXTINF:-1 ,芜湖经济生活频道
-http://1.24.39.180:808/hls/24/index.m3u8
-#EXTINF:-1 ,芜湖新闻综合频道
-http://1.24.39.180:808/hls/26/index.m3u8
-#EXTINF:-1 ,内蒙卫视
-http://1.24.39.180:808/hls/27/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://1.24.39.180:808/hls/28/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://1.24.39.180:808/hls/29/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://1.24.39.180:808/hls/30/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://1.24.39.180:808/hls/31/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://1.24.39.180:808/hls/32/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://1.24.39.180:808/hls/33/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://1.24.39.180:808/hls/34/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://1.24.39.180:808/hls/35/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://1.24.39.180:808/hls/36/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://1.24.39.180:808/hls/37/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://1.24.39.180:808/hls/38/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://1.24.39.180:808/hls/39/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://1.24.39.180:808/hls/43/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://1.24.39.180:808/hls/44/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://1.24.39.180:808/hls/46/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://1.24.39.180:808/hls/47/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://1.24.39.180:808/hls/48/index.m3u8
-#EXTINF:-1 ,CCTV16
-http://1.24.39.180:808/hls/60/index.m3u8
-#EXTINF:-1 ,CCTV17
-http://1.24.39.180:808/hls/61/index.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://101.30.37.81:4000/rtp/239.253.92.83:8012
+#EXTINF:-1 ,CCTV-2财经
+http://101.30.37.81:4000/rtp/239.253.92.190:6065
+#EXTINF:-1 ,CCTV-3综艺
+http://101.30.37.81:4000/rtp/239.253.92.191:6057
+#EXTINF:-1 ,CCTV-4亚洲
+http://101.30.37.81:4000/rtp/239.253.92.251:6141
+#EXTINF:-1 ,CCTV-5体育
+http://101.30.37.81:4000/rtp/239.253.92.181:6046
+#EXTINF:-1 ,CCTV-6电影
+http://101.30.37.81:4000/rtp/239.253.92.193:6058
+#EXTINF:-1 ,CCTV-7国防军事
+http://101.30.37.81:4000/rtp/239.253.92.194:6059
+#EXTINF:-1 ,CCTV-8电视剧
+http://101.30.37.81:4000/rtp/239.253.92.195:6060
+#EXTINF:-1 ,CCTV-9纪录
+http://101.30.37.81:4000/rtp/239.253.92.107:6020
+#EXTINF:-1 ,CCTV-10科教
+http://101.30.37.81:4000/rtp/239.253.92.196:6061
+#EXTINF:-1 ,CCTV-11戏曲
+http://101.30.37.81:4000/rtp/239.253.93.153:6321
+#EXTINF:-1 ,CCTV-12社会与法
+http://101.30.37.81:4000/rtp/239.253.92.197:6062
+#EXTINF:-1 ,CCTV-13新闻
+http://101.30.37.81:4000/rtp/239.253.92.13:8008
+#EXTINF:-1 ,CCTV-14少儿
+http://101.30.37.81:4000/rtp/239.253.92.198:6063
+#EXTINF:-1 ,CCTV-15音乐
+http://101.30.37.81:4000/rtp/239.253.93.154:6322
+#EXTINF:-1 ,CCTV-17农业农村
+http://101.30.37.81:4000/rtp/239.253.93.150:6318
+#EXTINF:-1 ,CCTV-5+体育赛事
+http://101.30.37.81:4000/rtp/239.253.92.82:8013
