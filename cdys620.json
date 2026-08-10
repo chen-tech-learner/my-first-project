@@ -45,7 +45,7 @@
      "searchable": 1
     },
     {
-      "key": "自动加载",
+      "key": "zdjz",
       "name": "自动加载.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD688.json"
@@ -162,7 +162,7 @@
       "filterable": 1
     },
     {
-      "key": "蔬菜",
+      "key": "sucai",
       "name": "🫛蔬菜┃APP",
       "type": 3,
       "jar": "https://lz0.qaiu.top/d/lz/iM96q3rkw8lc;md5;b81a5747f91e7169bdc7e3f68bd995e0",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "key": "天天",
+      "key": "taintian",
       "name": "🚀秒播┃1080P",
       "type": 3,
       "quickSearch": 1,
@@ -342,35 +342,35 @@
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
-      "key": "葫芦",
+      "key": "hulu",
       "name": "🪽葫芦┃1080P",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"
     },
     {
-      "key": "新首发",
+      "key": "xsf",
       "name": "👻标清┃1080P",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
-      "key": "四叶草",
+      "key": "sycao",
       "name": "🍀幸运┃1080P",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
     },
     {
-      "key": "猪猪",
+      "key": "zhuzhu",
       "name": "🐷猪猪┃1080P",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://snysw.xyz/mf4krxz329.txt|1234567887654321|V119"
     },
     {
-      "key": "爱营",
+      "key": "aiying",
       "name": "💥爱影┃1080P",
       "type": 3,
       "searchable": 1,
@@ -393,14 +393,14 @@
       "api": "csp_SaoHuo"
     },
     {
-      "key": "麦田",
+      "key": "maitian",
       "name": "🌾麦田┃1080P",
       "type": 3,
       "api": "csp_AppV6",
       "ext": "http://172.247.227.203:25321/mtys.php"
     },
     {
-      "key": "听心99",
+      "key": "tx99",
       "name": "🦉欣欣┃1080P",
       "type": 3,
       "api": "csp_App99",
@@ -417,7 +417,7 @@
       }
     },
     {
-      "key": "追番达人99",
+      "key": "zfdr99",
       "name": "🐎追番┃1080P",
       "type": 3,
       "api": "csp_App99",
@@ -434,7 +434,7 @@
       }
     },
     {
-      "key": "荐片",
+      "key": "jianpian",
       "name": "🧲荐片┃1080P",
       "quickSearch": 0,
       "changeable": "0",
@@ -735,7 +735,7 @@
       "filterable": 0
     },
     {
-      "key": "*乐播资源",
+      "key": "lebzy",
       "name": "🔞┃乐播资源(可能要🪜)",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -753,7 +753,7 @@
       "filterable": 0
     },
     {
-      "key": "💞探探资源💞",
+      "key": "ttzyuan",
       "name": "🔞┃探探资源(可能要🪜)",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/",
@@ -776,7 +776,7 @@
       "filterable": 1
     },
     {
-      "key": "(18+)JAV名优",
+      "key": "18jiaav",
       "name": "🔞┃JAV名优(可能要🪜)",
       "type": 0,
       "api": "http://mygzycj.com/api.php?ac=list",
@@ -821,7 +821,7 @@
       "filterable": 1
     },
     {
-      "key": "大地采集",
+      "key": "ddzy",
       "name": "🔞┃大地av(可能要🪜)",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
@@ -849,7 +849,7 @@
       "filterable": 0
     },
     {
-      "key": "*易看资源",
+      "key": "ykzy",
       "name": "🔞┃易看资源(可能要🪜)",
       "type": 1,
       "api": "https://api.yikanapi.com/api.php/provide/vod/",
@@ -867,7 +867,7 @@
       "filterable": 0
     },
     {
-      "key": "*番号资源",
+      "key": "fanhzy",
       "name": "🔞┃番号资源(可能要🪜)",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
