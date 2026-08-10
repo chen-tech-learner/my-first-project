@@ -67,26 +67,6 @@
     "filterable":1
 },
 {
-    "key":"csp_duanju",
-    "name":"短剧聚合",
-    "type":3,
-    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
-    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%88.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-},
-{
-    "key":"csp_duanju1",
-    "name":"短剧聚合1",
-    "type":3,
-    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
-    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%881.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-},
-{
     "key":"csp_tunxun",
     "name":"腾讯视频",
     "type":3,
