@@ -1,0 +1,110 @@
+﻿{
+"sites":[
+   {
+    "key": "cat_douer",
+    "name": "豆儿猫源",
+    "type": 3,
+    "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
+    "searchable": 1
+},
+{
+    "key": "cat_niu2",
+    "name": "牛二猫源",
+    "type": 3,
+    "api": "https://9280.kstore.vip/cat/index.js",
+    "searchable": 1
+},
+{
+  "key": "cat_4tv",
+  "name": "4TV解析",
+  "type": 3,
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
+  "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
+  "searchable": 1
+},
+{
+  "key": "cat_xuenai",
+  "name": "雪乃猫源",
+  "type": 3,
+  "api":  "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
+  "searchable": 1
+},
+{
+  "key": "cat_lmentor",
+  "name": "Lmentor猫源",
+  "type": 3,
+  "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
+  "searchable": 1
+},
+{
+    "key":"csp_yangshi",
+    "name":"央视频",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E5%A4%AE%E8%A7%86%E9%A2%91.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
+    "key":"csp_youku",
+    "name":"优酷视频",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
+    "key":"csp_aiqiyi",
+    "name":"爱奇艺",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E7%88%B1%E5%A5%87%E8%89%BA.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
+    "key":"csp_duanju",
+    "name":"短剧聚合",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%88.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
+    "key":"csp_duanju1",
+    "name":"短剧聚合1",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%881.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
+    "key":"csp_tunxun",
+    "name":"腾讯视频",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
+    "key":"csp_mangguo",
+    "name":"芒果视频",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/drpy2.min.js",
+    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+}
+]
+}
