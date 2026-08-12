@@ -36,43 +36,5 @@
   "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
   "searchable": 1
 }
-],
- "lives": [
-  {
-    "name": "黄豆线路一国内",
-    "type": 0,
-    "ua": "okhttp/5.3.2",
-    "url": "shturl.cc/0D6v65qQ8C"
-},
-{
-    "name": "黄豆线路二海外",
-    "type": 0,
-    "ua": "okhttp/5.3.2",
-    "url": "shturl.cc/nX37AXgdE"
-},
-{
-    "name": "黄豆线路三国内",
-    "type": 0,
-    "ua": "okhttp/5.3.2",
-    "url": "shturl.cc/O5VqMSEib"
-},
-{
-    "name": "黄豆线路四海外",
-    "type": 0,
-    "ua": "okhttp/5.3.2",
-    "url": "https://hddj01.com"
-},
-{
-    "name": "黄豆线路五海外",
-    "type": 0,
-    "ua": "okhttp/5.3.2",
-    "url": "https://hddj02.com"
-},
-{
-    "name": "黄豆线路六海外",
-    "type": 0,
-    "ua": "okhttp/5.3.2",
-    "url": "https://hddj03.com"
-}
 ]
 }
