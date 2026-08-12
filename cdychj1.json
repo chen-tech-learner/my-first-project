@@ -1092,7 +1092,7 @@
       }
     },
     {
-      "key": "白嫖资源",
+      "key": "baipiaozy",
       "name": "🈲白嫖资源",
       "type": 0,
       "api": "https:www.kxgav.com/api/xml.php",
@@ -1101,7 +1101,7 @@
       "filterable": 0
     },
     {
-      "key": "香奶儿资源",
+      "key": "xiangnaierzy",
       "name": "🈲香奶儿资源",
       "type": 0,
       "api": "https:www.gdlsp.com/api/xml.php",
@@ -1110,7 +1110,7 @@
       "filterable": 0
     },
     {
-      "key": "美少女资源",
+      "key": "meishaonuzy",
       "name": "🈲美少女资源",
       "type": 0,
       "api": "https:www.msnii.com/api/xml.php",
@@ -1119,7 +1119,7 @@
       "filterable": 1
     },
     {
-      "key": "黄AV资源",
+      "key": "huangavzy",
       "name": "🈲黄AV资源",
       "type": 0,
       "api": "https:www.pgxdy.com/api/xml.php",
@@ -1128,7 +1128,7 @@
       "filterable": 1
     },
     {
-      "key": "钦水机资源",
+      "key": "yingshuijizy",
       "name": "🈲钦水机资源",
       "type": 0,
       "api": "https:www.xrbsp.com/api/xml.php",
@@ -1137,7 +1137,7 @@
       "filterable": 0
     },
     {
-      "key": "CK资源2",
+      "key": "CKziyuan2",
       "name": "🈲CK资源2",
       "type": 0,
       "api": "https:ckzy.me/api.php/provide/vod/at/xml/",
@@ -1146,7 +1146,7 @@
       "filterable": 0
     },
     {
-      "key": "CK资源3",
+      "key": "CKzhiyuan3",
       "name": "🈲CK资源3",
       "type": 1,
       "api": "https:ckzy.me/api.php/provide/vod/",
@@ -1155,7 +1155,7 @@
       "filterable": 0
     },
     {
-      "key": "大地资源",
+      "key": "dadizhiyuan",
       "name": "🈲大地资源",
       "type": 0,
       "api": "https:dadiapi.com/api.php/",
@@ -1164,7 +1164,7 @@
       "filterable": 0
     },
     {
-      "key": "大地资源1",
+      "key": "dadizhiyuan1",
       "name": "🈲大地资源1",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
@@ -1173,7 +1173,7 @@
       "filterable": 1
     },
     {
-      "key": "大地资源2",
+      "key": "dadizhiyuan2",
       "name": "🈲大地资源2",
       "type": 0,
       "api": "https:dadiapi.com/api.php/provide/vod/at/xml",
@@ -1182,7 +1182,7 @@
       "filterable": 0
     },
     {
-      "key": "大地资源3",
+      "key": "dadizhiyuan3",
       "name": "🈲大地资源3",
       "type": 0,
       "api": "https:dadiapi.com/apple_m3u8.php",
@@ -1192,7 +1192,7 @@
       "filterable": 0
     },
     {
-      "key": "番号资源1",
+      "key": "fanhaozhiyuan1",
       "name": "🈲番号资源1",
       "type": 1,
       "api": "http:fhapi9.com/api.php/provide/vod/",
@@ -1201,7 +1201,7 @@
       "filterable": 0
     },
     {
-      "key": "番号资源2",
+      "key": "fanhaoziyuan2",
       "name": "🈲番号资源2",
       "type": 0,
       "api": "http:fhapi9.com/api.php/provide/vod/at/xml/",
@@ -1210,7 +1210,7 @@
       "filterable": 0
     },
     {
-      "key": "番号资源3",
+      "key": "fahaoziyuan3",
       "name": "🈲番号资源3",
       "type": 1,
       "api": "http:fhapi9.com/api.php/provide/vod/at/json",
@@ -1218,7 +1218,7 @@
       "quickSearch": 0
     },
     {
-      "key": "番号资源4",
+      "key": "fanhaoziyuan4",
       "name": "🈲番号资源4",
       "type": 1,
       "api": "http:fhapi9.com/api.php/provide/vod/?ac=list",
@@ -1227,7 +1227,7 @@
       "filterable": 0
     },
     {
-      "key": "乐播资源1",
+      "key": "leboziyuan1",
       "name": "🈲乐播资源1",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/",
@@ -1235,7 +1235,7 @@
       "quickSearch": 1
     },
     {
-      "key": "乐播资源2",
+      "key": "leboziyuan2",
       "name": "🈲乐播资源2",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/?ac=list",
@@ -1243,7 +1243,7 @@
       "quickSearch": 1
     },
     {
-      "key": "乐播资源3",
+      "key": "leboziyuan3",
       "name": "🈲乐播资源3",
       "type": 0,
       "api": "https:lbapi9.com/api.php/provide/vod/at/xml",
@@ -1252,7 +1252,7 @@
       "filterable": 0
     },
     {
-      "key": "乐播资源4",
+      "key": "leboziyuan4",
       "name": "🈲乐播资源4",
       "type": 1,
       "api": "https:lbapi9.com/api.php/provide/vod/at/json/",
@@ -1260,7 +1260,7 @@
       "quickSearch": 0
     },
     {
-      "key": "森林专场",
+      "key": "shenlingcaiji",
       "name": "🈲森林采集",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/",
@@ -1314,7 +1314,7 @@
       ]
     },
     {
-      "key": "虎牙",
+      "key": "huya",
       "name": "🔞虎牙采集",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
@@ -1325,7 +1325,7 @@
       ]
     },
     {
-      "key": "非凡资源",
+      "key": "feifanziyuan",
       "name": "🔞非凡资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
@@ -1337,7 +1337,7 @@
       ]
     },
     {
-      "key": "✨柠檬✨",
+      "key": "ningmeng",
       "name": "✨🔞柠檬✨",
       "type": 3,
       "api": "csp_XBPQ",
@@ -1348,7 +1348,7 @@
       "ext": {}
     },
     {
-      "key": "麻豆",
+      "key": "maduo",
       "name": "🔞麻豆",
       "type": 3,
       "changeable": 1,
@@ -1368,13 +1368,13 @@
       }
     },
     {
-      "key": "影视",
+      "key": "yingshi",
       "name": "影视18",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/"
     },
     {
-      "key": "鸡坤资源",
+      "key": "jikunziyuan",
       "name": "👠鸡坤资源",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
@@ -1383,7 +1383,7 @@
       "filterable": 0
     },
     {
-      "key": "9号资源",
+      "key": "9haoziyuan",
       "name": "👠9号资源",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
@@ -1391,7 +1391,7 @@
       "quickSearch": 0
     },
     {
-      "key": "滴滴资源",
+      "key": "didiziyuan",
       "name": "👠滴滴资源",
       "type": 0,
       "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
@@ -1400,14 +1400,14 @@
       "filterable": 0
     },
     {
-      "key": "森林",
+      "key": "shenlingcaiji",
       "name": "🔞采集.森林资源",
       "type": 1,
       "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1
     },
     {
-      "key": "玉兔专场",
+      "key": "yutucaiji",
       "name": "🔞玉兔采集",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
@@ -1459,7 +1459,7 @@
       ]
     },
     {
-      "key": "大地专场",
+      "key": "dadicaiji",
       "name": "🔞大地采集",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
@@ -1492,7 +1492,7 @@
       ]
     },
     {
-      "key": "乐播",
+      "key": "lebocaiji",
       "name": "️🔞乐播采集",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -1520,7 +1520,7 @@
       ]
     },
     {
-      "key": "番外",
+      "key": "fanwaicaiji",
       "name": "🔞番外采集",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -1548,7 +1548,7 @@
       ]
     },
     {
-      "key": "*大地资源",
+      "key": "*dadiziyuan",
       "name": "*🔞大地资源",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
@@ -1556,7 +1556,7 @@
       "quickSearch": 0
     },
     {
-      "key": "老鸭2",
+      "key": "laoya2",
       "name": "*🔞老鸭2",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -1580,7 +1580,7 @@
       "searchable": 0
     },
     {
-      "key": "*乐播资源",
+      "key": "*lebozhiyuan",
       "name": "*🔞乐播资源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -1588,7 +1588,7 @@
       "quickSearch": 0
     },
     {
-      "key": "*番号资源",
+      "key": "*fanhaozhuyan",
       "name": "*🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -1596,7 +1596,7 @@
       "quickSearch": 0
     },
     {
-      "key": "松视开通1",
+      "key": "songshi1",
       "name": "松视1",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
@@ -1604,7 +1604,7 @@
       "quickSearch": 0
     },
     {
-      "key": "松视开通2",
+      "key": "songshi2",
       "name": "松视2",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
@@ -1624,15 +1624,45 @@
   ],
   "lives": [
     {
-      "name": "【本地CNB定制】",
-      "type": 0,
-      "url": "https://cnb.cool/ms511/rs18/-/git/raw/main/18",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0"
-    },
-    {
       "name": "天美传媒816",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt",
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "柠檬直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "US麒麟直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "DG直播",
+      "type": 0,
+      "url": "http://1.94.31.214/live/live9/dgtv.txt",
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "咪咕直播",
+      "type": 0,
+      "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u",
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "小新直播",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/9565/小新TV.txt",
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "全国组播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
       "ua": "okhttp/3.15"
     },
     {
