@@ -1648,14 +1648,12 @@
     {
       "name": "咪咕直播",
       "type": 0,
-      "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u"
     },
     {
-      "name": "小新直播",
+      "name": "自建直播",
       "type": 0,
-      "url": "https://d.kstore.dev/download/9565/小新TV.txt",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cd/refs/heads/main/yer.m3u"
     },
     {
       "name": "全国组播",
