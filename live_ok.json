@@ -2,21 +2,21 @@
   "sites": [
     {
       "key": "cat_niu2",
-      "name": "猫源爬虫",
+      "name": "牛二猫源",
       "type": 3,
       "api": "https://9280.kstore.vip/cat/index.js",
       "searchable": 1
     },
     {
       "key": "cat_lmentor",
-      "name": "猫源爬虫",
+      "name": "Lmentor猫源",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
       "searchable": 1
     },
     {
       "key": "lebozy.com",
-      "name": "点播站点",
+      "name": "☀乐播👍资源🎦",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -42,7 +42,7 @@
     },
     {
       "key": "xjzyapi.xyz",
-      "name": "点播站点",
+      "name": "☀新小鸡👍资源🎦",
       "type": 1,
       "api": "https://api.xjzyapi.xyz/provide/vod",
       "searchable": 1,
@@ -85,7 +85,7 @@
     },
     {
       "key": "xiangjiaozyw.com",
-      "name": "点播站点",
+      "name": "☀香蕉👍资源🎦",
       "type": 1,
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -122,7 +122,7 @@
     },
     {
       "key": "xzytv.com",
-      "name": "点播站点",
+      "name": "☀幸资👍资源🎦",
       "type": 1,
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -152,7 +152,7 @@
     },
     {
       "key": "apilj.com",
-      "name": "点播站点",
+      "name": "☀辣椒👍资源🎦",
       "type": 1,
       "api": "https://apilj.com/api.php/provide/vod/",
       "searchable": 1,
@@ -184,7 +184,7 @@
     },
     {
       "key": "heiliaozy.com",
-      "name": "点播站点",
+      "name": "☀黑料👍资源🎦",
       "type": 1,
       "api": "https://heiliaozyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
       "key": "xiaojizy.live",
-      "name": "点播站点",
+      "name": "☀小鸡👍资源🎦",
       "type": 1,
       "api": "https://api.xiaojizy.live/provide/vod?ac=list",
       "searchable": 1,
@@ -253,7 +253,7 @@
     },
     {
       "key": "naixxzy.com",
-      "name": "点播站点",
+      "name": "☀奶香香👍资源🎦",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -291,7 +291,7 @@
     },
     {
       "key": "dbzy.tv",
-      "name": "点播站点",
+      "name": "☀豆瓣👍资源🎦",
       "type": 1,
       "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
       "searchable": 1,
@@ -302,7 +302,7 @@
     },
     {
       "key": "xxibaozyw.com",
-      "name": "点播站点",
+      "name": "☀X细胞👍资源",
       "type": 1,
       "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
       "searchable": 1,
@@ -341,7 +341,7 @@
     },
     {
       "key": "aosikazy1.com",
-      "name": "点播站点",
+      "name": "☀奥斯卡👍🎦资源",
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -374,8 +374,19 @@
       ]
     },
     {
+      "key": "iqiyizy.com",
+      "name": "☀爱奇艺👍资源🎦",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
       "key": "jkzyuan.cc",
-      "name": "点播站点",
+      "name": "☀爱坤👍资源🎦",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -402,7 +413,7 @@
     },
     {
       "key": "ms4nii",
-      "name": "点播站点",
+      "name": "🔞美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -411,7 +422,7 @@
     },
     {
       "key": "淫水机",
-      "name": "点播站点",
+      "name": "🔞淫水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -420,13 +431,13 @@
     },
     {
       "key": "*AIvin",
-      "name": "点播站点",
+      "name": "🔞AIvin",
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "白嫖",
-      "name": "点播站点",
+      "name": "🔞白嫖",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -435,7 +446,7 @@
     },
     {
       "key": "dadiapi.com",
-      "name": "点播站点",
+      "name": "🔞成人01",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
@@ -451,7 +462,7 @@
     },
     {
       "key": "gdlsp.com",
-      "name": "点播站点",
+      "name": "🔞成人03",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -467,7 +478,7 @@
     },
     {
       "key": "dadizhiyuan1",
-      "name": "点播站点",
+      "name": "🈲大地资源1",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 1,
@@ -476,7 +487,7 @@
     },
     {
       "key": "leboziyuan1",
-      "name": "点播站点",
+      "name": "🈲乐播资源1",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/",
       "searchable": 1,
@@ -484,7 +495,7 @@
     },
     {
       "key": "leboziyuan2",
-      "name": "点播站点",
+      "name": "🈲乐播资源2",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -492,7 +503,7 @@
     },
     {
       "key": "jikunziyuan",
-      "name": "点播站点",
+      "name": "👠鸡坤资源",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 0,
@@ -501,7 +512,7 @@
     },
     {
       "key": "9haoziyuan",
-      "name": "点播站点",
+      "name": "👠9号资源",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 0,
@@ -509,7 +520,7 @@
     },
     {
       "key": "dadicaiji",
-      "name": "点播站点",
+      "name": "🔞大地采集",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "playUrl": "",
@@ -542,7 +553,7 @@
     },
     {
       "key": "lebocaiji",
-      "name": "点播站点",
+      "name": "️🔞乐播采集",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "",
@@ -570,7 +581,7 @@
     },
     {
       "key": "fanwaicaiji",
-      "name": "点播站点",
+      "name": "🔞番外采集",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "playUrl": "",
@@ -598,7 +609,7 @@
     },
     {
       "key": "*dadiziyuan",
-      "name": "点播站点",
+      "name": "*🔞大地资源",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
@@ -606,7 +617,7 @@
     },
     {
       "key": "laoya2",
-      "name": "点播站点",
+      "name": "*🔞老鸭2",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
@@ -616,21 +627,21 @@
     },
     {
       "key": "fhapi9.com",
-      "name": "点播站点",
+      "name": "🔞成人14",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0
     },
     {
       "key": "lbapi9.com",
-      "name": "点播站点",
+      "name": "🔞成人41",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0
     },
     {
       "key": "*lebozhiyuan",
-      "name": "点播站点",
+      "name": "*🔞乐播资源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -638,7 +649,7 @@
     },
     {
       "key": "*fanhaozhuyan",
-      "name": "点播站点",
+      "name": "*🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -646,7 +657,7 @@
     },
     {
       "key": "songshi1",
-      "name": "点播站点",
+      "name": "松视1",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 0,
@@ -654,7 +665,7 @@
     },
     {
       "key": "songshi2",
-      "name": "点播站点",
+      "name": "松视2",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 0,
