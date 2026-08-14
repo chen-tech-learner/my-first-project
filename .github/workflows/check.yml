@@ -1,8 +1,10 @@
 name: 直播源自动检测清理
+permissions:
+  contents: read
 on:
   push:
   schedule:
-    - cron: '0 4 * * 0' # ✅ 每周日跑一次（7天一轮）
+    - cron: '0 4 * * 0' #每周日自动运行一次
   workflow_dispatch:
 
 jobs:
@@ -11,8 +13,6 @@ jobs:
     steps:
       - name: 拉取仓库代码
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - name: 安装Python
         uses: actions/setup-python@v5
         with:
@@ -21,10 +21,3 @@ jobs:
         run: pip install requests
       - name: 执行检测清理脚本
         run: python check_lives.py
-      - name: 提交更新回仓库
-        run: |
-          git config --global user.name "AutoBot"
-          git config --global user.email "bot@example.com"
-          git add lives.json
-          git commit -m "🤖自动清理：移除失效直播源" || echo "无死链，无需更新"
-          git push
