@@ -828,17 +828,6 @@
       ]
     },
     {
-      "key": "iqiyizy.com",
-      "name": "☀爱奇艺👍资源🎦",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
       "key": "jkzyuan.cc",
       "name": "☀爱坤👍资源🎦",
       "type": 1,
