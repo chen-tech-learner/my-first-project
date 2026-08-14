@@ -7,8 +7,8 @@ HEADERS = {
 TIMEOUT = 8
 
 # 自动分类命名（点播源）
-def auto_site_name(url, old_name):
-    txt = (url + " " + old_name).lower()
+def auto_site_name(uri, old_name):
+    txt = (uri + " " + old_name).lower()
     if "cat" in txt:
         return "猫源爬虫"
     elif "drpy" in txt:
@@ -19,99 +19,71 @@ def auto_site_name(url, old_name):
         return "点播站点"
 
 # 自动分类命名（直播源）
-def auto_live_name(url, old_name):
-    txt = (url + " " + old_name).lower()
+def auto_live_name(uri, old_name):
+    txt = (uri + " " + old_name).lower()
     if "cctv" in txt:
         return "央视频道"
     elif "卫视" in old_name or "weishi" in txt:
         return "卫视频道"
-    elif "4k" in txt or "uhd" in txt:
-        return "4K专区"
-    elif "migu" in txt or "咪咕" in txt or "huya" in txt or "douyu" in txt:
-        return "网络直播"
-    elif "少儿" in old_name or "卡通" in old_name:
-        return "少儿动画"
-    elif "电影" in old_name or "院线" in old_name:
-        return "电影频道"
+    elif "migu" in txt:
+        return "咪咕直播"
     else:
-        return "其他直播"
+        return old_name
 
-# 链接存活检测
-def check_url(url):
+# 测试链接是否存活
+def test_url(url):
     try:
         r = requests.head(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
-        return 200 <= r.status_code < 400
+        return r.status_code == 200
     except Exception:
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-            return 200 <= r.status_code < 400
-        except Exception:
-            return False
+        return False
 
-# 读取你的原始源文件列表
-src_files = ["lives.json", "cdychj1.json", "cdys620.json"]
-good_sites = []
-good_lives = []
-site_count = 0
-live_count = 0
-
-for fname in src_files:
+# 读取原始点播sites
+def load_sites():
     try:
-        with open(fname, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    except Exception as e:
-        print(f"【警告】{fname} 读取失败: {e}")
-        continue
+        with open("cdychj1.json", "r", encoding="utf-8") as f:
+            raw = json.load(f)
+        return raw.get("sites", [])
+    except:
+        return []
 
-    # ---------- 检测点播 sites 影视网站 ----------
-    if "sites" in data and isinstance(data["sites"], list):
-        for item in data["sites"]:
-            api_url = item.get("api")
-            if not api_url:
-                continue
-            if check_url(api_url):
-                site_count += 1
-                new_name = f"{auto_site_name(api_url, item.get('name',''))}-{site_count}"
-                new_item = item.copy()
-                new_item["name"] = new_name
-                good_sites.append(new_item)
-                print(f"✅点播存活: {new_name} | {api_url}")
-            else:
-                print(f"❌点播失效: {item.get('name')} | {api_url}")
+# 读取原始直播lives
+def load_lives():
+    try:
+        with open("lives.json", "r", encoding="utf-8") as f:
+            raw = json.load(f)
+        return raw.get("lives", [])
+    except:
+        return []
 
-    # ---------- 检测直播 lives ----------
-    if "lives" in data and isinstance(data["lives"], list):
-        for item in data["lives"]:
-            live_url = item.get("url")
-            if not live_url:
-                continue
-            if check_url(live_url):
-                live_count += 1
-                new_name = f"{auto_live_name(live_url, item.get('name',''))}-{live_count}"
-                new_item = item.copy()
-                new_item["name"] = new_name
-                good_lives.append(new_item)
-                print(f"✅直播存活: {new_name} | {live_url}")
-            else:
-                print(f"❌直播失效: {item.get('name')} | {live_url}")
+if __name__ == "__main__":
+    out_sites = []
+    for item in load_sites():
+        api = item.get("api", "")
+        if test_url(api):
+            new_name = auto_site_name(api, item.get("name", ""))
+            item["name"] = new_name
+            out_sites.append(item)
 
-# ---------- 组装最终成品JSON（影视仓直接加载） ----------
-out_json = {
-    "sites": good_sites,
-    "lives": good_lives
-}
+    out_lives = []
+    for item in load_lives():
+        url = item.get("url", "")
+        if test_url(url):
+            new_name = auto_live_name(url, item.get("name", ""))
+            item["name"] = new_name
+            out_lives.append(item)
 
-# 输出影视仓json
-with open("live_ok.json", "w", encoding="utf-8") as f:
-    json.dump(out_json, f, ensure_ascii=False, indent=2)
+    final = {
+        "sites": out_sites,
+        "lives": out_lives
+    }
+    # ✅重点：ensure_ascii=False 保留原生中文，不再转\u编码！
+    with open("live_ok.json", "w", encoding="utf-8") as f:
+        json.dump(final, f, indent=2, ensure_ascii=False)
 
-# 输出m3u直播备用
-with open("live_ok.m3u", "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n")
-    for it in good_lives:
-        f.write(f'#EXTINF:-1,{it["name"]}\n{it["url"]}\n')
-
-print(f"\n===== 检测汇总 =====")
-print(f"✅存活点播站点：{len(good_sites)} 个")
-print(f"✅存活直播源：{len(good_lives)} 条")
-print(f"📁已生成 live_ok.json / live_ok.m3u")
+    # 导出纯直播m3u
+    m3u_text = "#EXTM3U\n"
+    for it in out_lives:
+        m3u_text += f'#EXTINF:-1,{it["name"]}\n{it["url"]}\n'
+    with open("live_ok.m3u", "w", encoding="utf-8") as f:
+        f.write(m3u_text)
