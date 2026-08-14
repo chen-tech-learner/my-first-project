@@ -6,10 +6,10 @@ HEADERS = {
 }
 TIMEOUT = 8
 
-# 测试链接是否存活
+# ✅改成GET流式探测，解决IPTV直播HEAD误杀问题
 def test_url(url):
     try:
-        r = requests.head(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
+        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True, stream=True)
         return r.status_code == 200
     except Exception:
         return False
@@ -37,21 +37,19 @@ if __name__ == "__main__":
     for item in load_sites():
         api = item.get("api", "")
         if test_url(api):
-            # ✅直接保留原名，不自动改名
             out_sites.append(item)
 
     out_lives = []
     for item in load_lives():
         url = item.get("url", "")
         if test_url(url):
-            # ✅直接保留原名，不自动改名
             out_lives.append(item)
 
     final = {
         "sites": out_sites,
         "lives": out_lives
     }
-    # ✅ensure_ascii=False → 中文正常，不会变成\u编码
+    # ✅ensure_ascii=False 原生中文，不再\u编码
     with open("live_ok.json", "w", encoding="utf-8") as f:
         json.dump(final, f, indent=2, ensure_ascii=False)
 
