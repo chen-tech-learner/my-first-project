@@ -6,30 +6,6 @@ HEADERS = {
 }
 TIMEOUT = 8
 
-# 自动分类命名（点播源）
-def auto_site_name(uri, old_name):
-    txt = (uri + " " + old_name).lower()
-    if "cat" in txt:
-        return "猫源爬虫"
-    elif "drpy" in txt:
-        return "DRPY解析"
-    elif "4k" in txt or "uhd" in txt:
-        return "4K影视"
-    else:
-        return "点播站点"
-
-# 自动分类命名（直播源）
-def auto_live_name(uri, old_name):
-    txt = (uri + " " + old_name).lower()
-    if "cctv" in txt:
-        return "央视频道"
-    elif "卫视" in old_name or "weishi" in txt:
-        return "卫视频道"
-    elif "migu" in txt:
-        return "咪咕直播"
-    else:
-        return old_name
-
 # 测试链接是否存活
 def test_url(url):
     try:
@@ -61,23 +37,21 @@ if __name__ == "__main__":
     for item in load_sites():
         api = item.get("api", "")
         if test_url(api):
-            new_name = auto_site_name(api, item.get("name", ""))
-            item["name"] = new_name
+            # ✅直接保留原名，不自动改名
             out_sites.append(item)
 
     out_lives = []
     for item in load_lives():
         url = item.get("url", "")
         if test_url(url):
-            new_name = auto_live_name(url, item.get("name", ""))
-            item["name"] = new_name
+            # ✅直接保留原名，不自动改名
             out_lives.append(item)
 
     final = {
         "sites": out_sites,
         "lives": out_lives
     }
-    # ✅重点：ensure_ascii=False 保留原生中文，不再转\u编码！
+    # ✅ensure_ascii=False → 中文正常，不会变成\u编码
     with open("live_ok.json", "w", encoding="utf-8") as f:
         json.dump(final, f, indent=2, ensure_ascii=False)
 
