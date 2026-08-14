@@ -26,7 +26,11 @@ def load_lives():
     try:
         with open("lives.json", "r", encoding="utf-8") as f:
             raw = json.load(f)
-        arr = raw.get("lives", [])
+        # 自动判断：顶层是数组直接用；是对象就取lives
+        if isinstance(raw, list):
+            arr = raw
+        else:
+            arr = raw.get("lives", [])
         print(f"✅【调试】lives.json读取成功，直播数量={len(arr)}")
         print(json.dumps(arr, indent=2, ensure_ascii=False))
         return arr
