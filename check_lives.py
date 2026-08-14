@@ -13,6 +13,24 @@ out_json = "live_ok.json"
 timeout = 10
 headers = {"User-Agent": "Mozilla/5.0"}
 
+# 关键词自动识别频道名
+def auto_name(url, old_name):
+    txt = (url + " " + old_name).lower()
+    if "cctv" in txt:
+        return "央视频道"
+    elif "卫视" in old_name or "weishi" in txt:
+        return "卫视频道"
+    elif "4k" in txt or "uhd" in txt:
+        return "4K专区"
+    elif "migu" in txt or "咪咕" in txt or "huya" in txt or "douyu" in txt:
+        return "网络直播"
+    elif "少儿" in old_name or "卡通" in old_name:
+        return "少儿动画"
+    elif "电影" in old_name or "院线" in old_name:
+        return "电影频道"
+    else:
+        return "其他直播"
+
 def extract_m3u_urls(raw_text):
     pat = re.compile(r'http[s]?://[^\s,#\n]+')
     return pat.findall(raw_text)
@@ -48,22 +66,24 @@ for fname in scan_files:
                 for u in subs:
                     if test_url(u):
                         count += 1
-                        name = f"频道{count}"
+                        cate_name = auto_name(u, g_name)
+                        full_name = f"{cate_name}-{count}"
                         good_items.append({
-                            "name": name,
+                            "name": full_name,
                             "type": 0,
                             "url": u,
                             "timeout":15
                         })
-                        print(f"✅存活 {name} | {u}")
+                        print(f"✅存活 {full_name} | {u}")
                     else:
                         print(f"❌失效 {u}")
             except Exception as e:
                 print(f"⚠️拉取m3u失败:{e}")
         else:
             if test_url(g_url):
+                cate_name = auto_name(g_url, g_name)
                 good_items.append({
-                    "name": g_name,
+                    "name": f"{cate_name}-{g_name}",
                     "type": 0,
                     "url": g_url,
                     "timeout":15
