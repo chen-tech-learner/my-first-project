@@ -1092,7 +1092,7 @@
     },
     {
       "name": "央视频",
-      "type": 3,
+      "type": 0,
       "api": "https://d.kstore.dev/download/8344/py/liveysp.py",
       "ua": "NB"
     },
