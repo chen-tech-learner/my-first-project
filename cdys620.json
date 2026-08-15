@@ -1091,6 +1091,12 @@
         "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
     {
+      "name": "央视频",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/8344/py/liveysp.py",
+      "ua": "NB"
+    },
+    {
         "name": "柠檬TV",
         "type": "0",
         "pass": true,
