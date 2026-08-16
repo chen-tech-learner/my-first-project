@@ -1097,6 +1097,14 @@
       "ua": "NB"
     },
     {
+        "name": "DG直播",
+        "type": "0",
+        "pass": true,
+        "url": "http://1.94.31.214/live/live9/dgtv.txt",
+        "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+        "Logo": "https://epg.v1.mk/Logo/{name}.png"
+    },
+    {
         "name": "柠檬TV",
         "type": "0",
         "pass": true,
