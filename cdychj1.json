@@ -1651,6 +1651,12 @@
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u"
     },
     {
+      "name": "央视频",
+      "type": 0,
+      "api": "https://d.kstore.dev/download/8344/py/liveysp.py",
+      "ua": "NB"
+    },
+    {
       "name": "自建直播",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cd/refs/heads/main/yer.m3u"
