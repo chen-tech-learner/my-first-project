@@ -926,26 +926,6 @@
       "url": "http://gsd-jx1.810211.dpdns.org/api/?key=Q2IhcHdde0F5fof&url="
     },
     {
-      "name": "超特解析-去播",
-      "type": 1,
-      "url": "http://zxy-2026th2.sby01.dpdns.org:8070/?url="
-    },
-    {
-      "name": "超特解析",
-      "type": 1,
-      "url": "http://zxy-th1.jsszks.dpdns.org:8090/?url="
-    },
-    {
-      "name": "超特解析-1",
-      "type": 1,
-      "url": "http://zxy-2026th.sby01.dpdns.org:8080/?url="
-    },
-    {
-      "name": "超特解析-2",
-      "type": 1,
-      "url": "http://zxy-2026ys1.sby01.dpdns.org:8090/?url="
-    },
-    {
       "name": "超特解析1",
       "type": 1,
       "url": "https://zxy-jx1.jsszks.dpdns.org/api/?key=tvPNI63uStrfeHd&url="
@@ -956,11 +936,6 @@
       "url": "https://e.sby123c.cc/api/?key=emUU37TkuNQkP5ZYjr&url="
     },
     {
-      "name": "超解析",
-      "type": 1,
-      "url": "http://zxy-th.jsszks.dpdns.org:8080/?url="
-    },
-    {
       "name": "zh-专线",
       "type": 1,
       "url": "http://zxy-th.jsszks.dpdns.org/20260514thjx/?url="
@@ -969,11 +944,6 @@
       "name": "zh1-专线",
       "type": 1,
       "url": "http://zxy-th.jsszks.dpdns.org:8080/?url="
-    },
-    {
-      "name": "mgsf-专线",
-      "type": 1,
-      "url": "http://zxy-th.jsszks.dpdns.org/mgsf/mgtv.php/?url="
     },
     {
       "name": "qq-专线",
@@ -996,11 +966,6 @@
       "url": "https://zxy-yhjx.sby01.dpdns.org/home/api?type=ys&uid=2733323&key=K4EpxeoffYanJcweCk&url="
     },
     {
-      "name": "胖大海",
-      "type": 1,
-      "url": "https://api.suxun.site/api/gjth?url="
-    },
-    {
       "name": "超解析1",
       "type": 1,
       "url": "https://wk-zy1.bacefin.eu.org/parse.php?url="
@@ -1011,19 +976,9 @@
       "url": "http://wk-zy1.bacefin.eu.org/parse.php?url="
     },
     {
-      "name": "嗅探1",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
       "name": "嗅探2",
       "type": 0,
       "url": "https://yparse.ik9.cc/index.php?url="
-    },
-    {
-      "name": "嗅探3",
-      "type": 0,
-      "url": "https://jx.77flv.cc/?url="
     },
     {
       "name": "嗅探4",
@@ -1044,11 +999,6 @@
       "name": "嗅探7",
       "type": 0,
       "url": "https://jiexi.789jiexi.net:4433/?url="
-    },
-    {
-      "name": "嗅探8",
-      "type": 0,
-      "url": "https://jiexi.789jiexi.icu:4433/?url="
     },
     {
       "name": "嗅探9",
@@ -1074,11 +1024,6 @@
       "name": "备用嗅探1",
       "type": 0,
       "url": "https://jx.618g.com/?url="
-    },
-    {
-      "name": "备用嗅探2",
-      "type": 0,
-      "url": "https://jiexi.071811.cc/jx.php?url="
     }
    ],
   "lives": [
