@@ -21,7 +21,7 @@
     },
     {
       "key": "0",
-      "name": "🍁请你🌼看剧🍁",
+      "name": "影视合集",
       "type": 0,
       "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -79,7 +79,7 @@
     },
     {
       "key": "1",
-      "name": "🍁他们🌼快乐🍁",
+      "name": "影视合集1",
       "type": 0,
       "style": {
         "type": "rect",
@@ -90,7 +90,7 @@
     },
     {
       "key": "2",
-      "name": "🍁她的🌼梦想🍁",
+      "name": "影视合集2",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -99,7 +99,7 @@
     },
     {
       "key": "3",
-      "name": "🍁快乐🌼分享🍁",
+      "name": "影视合集3",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php ",
       "searchable": 1,
