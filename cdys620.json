@@ -1088,19 +1088,22 @@
       "name": "自建直播",
       "type": 0,
       "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/dd/yw.m3u",
-      "playerType": 2
+	  "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
     {
       "name": "自建直播1",
       "type": 0,
       "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs1.txt",
-      "playerType": 2
+	  "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
 	{
       "name": "甜心直播",
       "type": 0,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/zxmlxw520/5566/main/tx.txt",
-      "playerType": 2
+	  "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
     {
       "name": "DG直播",
