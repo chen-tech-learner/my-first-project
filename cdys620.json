@@ -1110,7 +1110,7 @@
       "name": "柠檬TV",
       "type": "0",
       "pass": true,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/LemonTV/refs/heads/main/iptv-fe.m3u",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/jia070310/lemonTV/main/iptv-fe.m3u",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     }
