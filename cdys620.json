@@ -1099,9 +1099,9 @@
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
 	{
-      "name": "甜心直播",
+      "name": "EasyTV直播",
       "type": 0,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/zxmlxw520/5566/main/tx.txt",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
 	  "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
