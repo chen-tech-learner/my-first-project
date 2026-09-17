@@ -1097,13 +1097,6 @@
 	  "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
-	{
-      "name": "自动更新直播",
-      "type": 0,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/zilong7728/Collect-IPTV/main/best_sorted.m3u",
-	  "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "Logo": "https://epg.v1.mk/Logo/{name}.png"
-    },
     {
       "name": "DG直播",
       "type": "0",
