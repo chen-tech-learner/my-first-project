@@ -1,13 +1,7 @@
 {
   "spider": "https://lz0.qaiu.top/d/lz/iDkl73rkpkyf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+  "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
   "sites": [
-    {
-      "key": "config",
-      "name": "公众号【白虾工具】搜集整合",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0
-    },
     {
       "key": "IPTV國臺版17",
       "name": "🍁央视频🌼直播🍁",
@@ -1082,8 +1076,8 @@
     }
   ],
   "lives": [
-    {
-      "name": "全国组播",
+   {
+	  "name": "全国组播",
       "type": "0",
       "pass": true,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
@@ -1091,15 +1085,15 @@
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
     {
-      "name": "雄哥直播",
-      "type": 1,
-      "url": "./zhibo",
+      "name": "自建直播",
+      "type": 0,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/dd/yw.m3u",
       "playerType": 2
     },
     {
-      "name": "黑软直播",
-      "type": 1,
-      "url": "./zhibo1",
+      "name": "自建直播1",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs1.txt",
       "playerType": 2
     },
 	{
