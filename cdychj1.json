@@ -1,13 +1,13 @@
 {
   "sites": [
-    {
-      "key": "XMVideo",
-      "name": "⭐熊猫视频⭐",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.org/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+     {
+      "key" : "XMVideo",
+      "name" : "熊猫视频",
+      "type" : 3,
+      "api" : "csp_XMVideo",
+      "searchable" : 1,
+      "filterable" : 1,
+      "jar" : "https://gh-proxy.org/https://github.com/maccms2023/app/raw/refs/heads/main/182.jar"
     },
     {
       "key": "lebozy.com",
@@ -1613,12 +1613,6 @@
       "name": "咪咕直播",
       "type": 0,
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/main/source/migu.m3u"
-    },
-    {
-      "name": "央视频",
-      "type": 0,
-      "api": "https://d.kstore.dev/download/8344/py/liveysp.py",
-      "ua": "NB"
     },
     {
       "name": "自建直播",
