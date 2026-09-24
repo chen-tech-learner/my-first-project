@@ -1,17 +1,6 @@
 {
  "sites": [
 	 {
-      "key": "dsplayer",
-      "name": "DsPlayer爬虫",
-      "type": 3,
-      "api": "",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0",
-      "spider": "https://gitee.com/chenleihao2026/cd/raw/master/base.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-     },
-	 {
       "key": "IPTV國臺版17",
       "name": "🍁央视频🌼直播🍁",
       "type": 3,
