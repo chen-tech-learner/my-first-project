@@ -1,13 +1,13 @@
 {
   "sites": [
-     {
-      "key" : "XMVideo",
-      "name" : "熊猫视频",
-      "type" : 3,
-      "api" : "csp_XMVideo",
-      "searchable" : 1,
-      "filterable" : 1,
-      "jar" : "https://tvv.tw/https://github.com/maccms2023/app/raw/refs/heads/main/182.jar"
+    {
+      "key": "XMVideo",
+      "name": "熊猫视频",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://tvv.tw/https://github.com/maccms2023/app/raw/refs/heads/main/182.jar"
     },
     {
       "key": "lebozy.com",
@@ -65,7 +65,6 @@
         "自拍偷拍",
         "口交自慰",
         "国产三级",
-        "日韩AV",
         "素人特摄",
         "无码高清",
         "经典有码",
@@ -144,73 +143,6 @@
         "女同性恋",
         "中文字幕",
         "男同性恋"
-      ]
-    },
-    {
-      "key": "xiangjiaozyw.com",
-      "name": "☀香蕉👍资源🎦",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美精品",
-        "黑人洋屌",
-        "中文字幕",
-        "国产色情",
-        "日本无码",
-        "自拍偷拍",
-        "日本有码",
-        "吃瓜爆料",
-        "人麦熟女",
-        "卡通动漫",
-        "国产直播",
-        "岛国群交",
-        "乱伦中出",
-        "传媒原创",
-        "口爆颜射",
-        "萝莉少女",
-        "角色扮演",
-        "岛国女优",
-        "岛国素人",
-        "重口调教",
-        "淫娃自慰",
-        "韩国直播",
-        "电车痴汉",
-        "户外打野",
-        "公开漏出",
-        "高潮喷水",
-        "AI换脸"
-      ]
-    },
-    {
-      "key": "xzytv.com",
-      "name": "☀幸资👍资源🎦",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美精品",
-        "日韩精品",
-        "动漫精品",
-        "自拍偷拍",
-        "伦理影片",
-        "中文字幕",
-        "人妻系列",
-        "制服诱惑",
-        "强奸乱伦",
-        "AV明星",
-        "SM重味",
-        "巨乳系列",
-        "颜射系列",
-        "口交视频",
-        "自慰系列",
-        "教师学生",
-        "大秀视频",
-        "明星换脸",
-        "AV解说",
-        "VR视频"
       ]
     },
     {
@@ -355,8 +287,7 @@
         "高潮喷吹",
         "激情口交",
         "绝美少女",
-        "首次亮相",
-        "AV明星"
+        "首次亮相"
       ]
     },
     {
@@ -564,7 +495,7 @@
       "key": "bwzyz.tv",
       "name": "☀百万👍资源🎦",
       "type": 1,
-      "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
+      "api": "http://api.bwzyz.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -585,45 +516,6 @@
         "日韩主播",
         "AV解说",
         "女星换脸"
-      ]
-    },
-    {
-      "key": "xxibaozyw.com",
-      "name": "☀X细胞👍资源",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美精品",
-        "中文字幕",
-        "传媒原创",
-        "乱伦中出",
-        "国产色情",
-        "日本无码",
-        "自拍偷拍",
-        "日本有码",
-        "伦理三级",
-        "吃瓜爆料",
-        "人麦熟女",
-        "黑人洋屌",
-        "卡通动漫",
-        "国产直播",
-        "岛国群交",
-        "口爆颜射",
-        "萝莉少女",
-        "角色扮演",
-        "岛国女优",
-        "岛国素人",
-        "重口调教",
-        "淫娃自慰",
-        "韩国直播",
-        "电车痴汉",
-        "户外打野",
-        "公开漏出",
-        "高潮喷水",
-        "AI换脸",
-        "AV解说"
       ]
     },
     {
@@ -1000,12 +892,6 @@
       "filterable": 1
     },
     {
-      "key": "*AIvin",
-      "name": "🔞AIvin",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
-    {
       "key": "白嫖",
       "name": "🔞白嫖",
       "type": 0,
@@ -1059,7 +945,7 @@
       "key": "baipiaozy",
       "name": "🈲白嫖资源",
       "type": 0,
-      "api": "https:www.kxgav.com/api/xml.php",
+      "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1068,7 +954,7 @@
       "key": "xiangnaierzy",
       "name": "🈲香奶儿资源",
       "type": 0,
-      "api": "https:www.gdlsp.com/api/xml.php",
+      "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1077,7 +963,7 @@
       "key": "meishaonuzy",
       "name": "🈲美少女资源",
       "type": 0,
-      "api": "https:www.msnii.com/api/xml.php",
+      "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1086,7 +972,7 @@
       "key": "huangavzy",
       "name": "🈲黄AV资源",
       "type": 0,
-      "api": "https:www.pgxdy.com/api/xml.php",
+      "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1095,7 +981,7 @@
       "key": "yingshuijizy",
       "name": "🈲钦水机资源",
       "type": 0,
-      "api": "https:www.xrbsp.com/api/xml.php",
+      "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1104,7 +990,7 @@
       "key": "CKziyuan2",
       "name": "🈲CK资源2",
       "type": 0,
-      "api": "https:ckzy.me/api.php/provide/vod/at/xml/",
+      "api": "https://ckzy.me/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1113,7 +999,7 @@
       "key": "CKzhiyuan3",
       "name": "🈲CK资源3",
       "type": 1,
-      "api": "https:ckzy.me/api.php/provide/vod/",
+      "api": "https://ckzy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1122,7 +1008,7 @@
       "key": "dadizhiyuan",
       "name": "🈲大地资源",
       "type": 0,
-      "api": "https:dadiapi.com/api.php/",
+      "api": "https://dadiapi.com/api.php/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1140,7 +1026,7 @@
       "key": "dadizhiyuan2",
       "name": "🈲大地资源2",
       "type": 0,
-      "api": "https:dadiapi.com/api.php/provide/vod/at/xml",
+      "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1149,8 +1035,8 @@
       "key": "dadizhiyuan3",
       "name": "🈲大地资源3",
       "type": 0,
-      "api": "https:dadiapi.com/apple_m3u8.php",
-      "playUrl": "https:play.dadiapi.com/watch?url=",
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "https://play.dadiapi.com/watch?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1159,7 +1045,7 @@
       "key": "fanhaozhiyuan1",
       "name": "🈲番号资源1",
       "type": 1,
-      "api": "http:fhapi9.com/api.php/provide/vod/",
+      "api": "https://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1168,7 +1054,7 @@
       "key": "fanhaoziyuan2",
       "name": "🈲番号资源2",
       "type": 0,
-      "api": "http:fhapi9.com/api.php/provide/vod/at/xml/",
+      "api": "https://fhapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1177,7 +1063,7 @@
       "key": "fahaoziyuan3",
       "name": "🈲番号资源3",
       "type": 1,
-      "api": "http:fhapi9.com/api.php/provide/vod/at/json",
+      "api": "https://fhapi9.com/api.php/provide/vod/at/json",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -1185,32 +1071,16 @@
       "key": "fanhaoziyuan4",
       "name": "🈲番号资源4",
       "type": 1,
-      "api": "http:fhapi9.com/api.php/provide/vod/?ac=list",
+      "api": "https://fhapi9.com/api.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "leboziyuan1",
-      "name": "🈲乐播资源1",
-      "type": 1,
-      "api": "http://lbapiby.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "leboziyuan2",
-      "name": "🈲乐播资源2",
-      "type": 1,
-      "api": "http://lbapiby.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "leboziyuan3",
       "name": "🈲乐播资源3",
       "type": 0,
-      "api": "https:lbapi9.com/api.php/provide/vod/at/xml",
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1219,7 +1089,7 @@
       "key": "leboziyuan4",
       "name": "🈲乐播资源4",
       "type": 1,
-      "api": "https:lbapi9.com/api.php/provide/vod/at/json/",
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json/",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -1301,37 +1171,6 @@
       ]
     },
     {
-      "key": "ningmeng",
-      "name": "✨🔞柠檬✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://cnb.cool/ms511/PG/-/git/raw/main/sub/hl.jar",
-      "filterable": 1,
-      "ext": {}
-    },
-    {
-      "key": "maduo",
-      "name": "🔞麻豆",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "jar": "https://cnb.cool/ms511/PG/-/git/raw/main/sub/xyqxbpq.jar",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": {
-        "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类": "日本视频$1#麻豆视频$2",
-        "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-        "直接播放": "1"
-      }
-    },
-    {
       "key": "yingshi",
       "name": "影视18",
       "type": 1,
@@ -1350,7 +1189,7 @@
       "key": "9haoziyuan",
       "name": "👠9号资源",
       "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+      "api": "https://fhapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -1364,7 +1203,7 @@
       "filterable": 0
     },
     {
-      "key": "shenlingcaiji",
+      "key": "shenlingcaiji_bak",
       "name": "🔞采集.森林资源",
       "type": 1,
       "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
@@ -1487,7 +1326,7 @@
       "key": "fanwaicaiji",
       "name": "🔞番外采集",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://fhapi9.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -1524,7 +1363,7 @@
       "name": "*🔞老鸭2",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
-      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
+      "playUrl": "json:http://player.77lehuo.com/aliplayer/?url=",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1533,7 +1372,7 @@
       "key": "fhapi9.com",
       "name": "🔞成人14",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://fhapi9.com/api.php/provide/vod/",
       "searchable": 0
     },
     {
@@ -1555,7 +1394,7 @@
       "key": "*fanhaozhuyan",
       "name": "*🔞番号资源",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -1574,16 +1413,6 @@
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "changeable": 0,
-      "timeout": 30,
-      "ext": "https://cnb.cool/ms511/PG/-/git/raw/main/lib/tokenm.json",
-      "jar": "https://cnb.cool/ms511/PG/-/git/raw/main/pg.jar;md5;ee4948032721fc4b149d1cc4eee5a598"
     }
   ],
   "lives": [
@@ -1607,7 +1436,7 @@
       "name": "DG直播",
       "type": 0,
       "url": "http://1.94.31.214/live/live9/dgtv.txt",
-       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     },
     {
       "name": "咪咕直播",
@@ -1673,12 +1502,6 @@
       "ua": "okhttp/3.15"
     },
     {
-      "name": "Jable嗅探",
-      "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/Jable嗅探.txt",
-      "ua": "okhttp/3.15"
-    },
-    {
       "name": "无敌",
       "type": 0,
       "url": "https://gh-proxy.org/raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/无敌.m3u",
@@ -1696,93 +1519,73 @@
       "url": "https://gh-proxy.org/raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt",
       "ua": "okhttp/3.15"
     }
-   ],
+  ],
   "parses": [
-  {
-    "name": "聚合",
-    "type": 3,
-    "url": "Web"
-  },
-  {
-    "name": "虾米",
-    "type": 0,
-    "url": "https://jx.xmflv.com/?url=",
-    "ext": {
-      "header": {
-        "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
       }
-    }
-  },
-  {
-    "name": "云解",
-    "type": 0,
-    "url": "https://yparse.ik9.cc/index.php?url=",
-    "ext": {
-      "header": {
-        "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "name": "云解",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
       }
-    }
-  },
-  {
-    "name": "冰豆",
-    "type": 0,
-    "url": "https://bd.jx.cn/?url=",
-    "ext": {
-      "header": {
-        "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
       }
-    }
-  },
-  {
-    "name": "盘古",
-    "type": 0,
-    "url": "https://www.playm3u8.cn/jiexi.php?url=",
-    "ext": {
-      "header": {
-        "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "name": "盘古",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
       }
-    }
-  },
-  {
-    "name": "夜幕",
-    "type": 0,
-    "url": "https://yemu.xyz/?url=",
-    "ext": {
-      "header": {
-        "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://yemu.xyz/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
       }
-    }
-  },
-  {
-    "name": "高速解析A",
-    "type": 0,
-    "url": "https://xxx.xxx.cc/jx?url=",
-    "ext": {
-      "header": {
-        "user-agent": "Mozilla/5.0 (Linux; Android 13; AppleWebKit/537.36)"
-      }
-    }
-  },
-  {
-    "name": "高速解析B",
-    "type": 0,
-    "url": "https://xxx.xxx.top/api/jx?url=",
-    "ext": {
-      "header": {
-        "user-agent": "Mozilla/5.0 (Linux; Android 13; AppleWebKit/537.36)"
-      }
-    }
-  },
-  {
-    "name": "AB",
-    "type": 0,
-    "url": "http://jx.abplayer.top/?url="
-  },
-  {
+    },
+    {
+      "name": "AB",
+      "type": 0,
+      "url": "http://jx.abplayer.top/?url="
+    },
+    {
       "name": "web",
       "type": 3,
       "url": "Web"
-  }
+    }
   ],
   "flags": [
     "youku",
@@ -1833,7 +1636,7 @@
     },
     {
       "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
+      "url": "https://dns.quad9.net/dns-query",
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
