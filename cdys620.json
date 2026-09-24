@@ -252,7 +252,7 @@
     },
     {
       "key": "gdlsE",
-      "name": "🔞┃香奶儿资源(可能要🪜)1",
+      "name": "影视合集4",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -261,7 +261,7 @@
     },
     {
       "key": "kxgav",
-      "name": "🔞┃白嫖资源(可能要🪜)1",
+      "name": "影视合集5",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -270,7 +270,7 @@
     },
     {
       "key": "lebzy",
-      "name": "🔞┃乐播资源(可能要🪜)1",
+      "name": "影视合集6",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -279,7 +279,7 @@
     },
     {
       "key": "zp100",
-      "name": "🔞┃乐播(可能要🪜)1",
+      "name": "影视合集7",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -288,7 +288,7 @@
     },
     {
       "key": "KpgxdyE",
-      "name": "🔞┃黄AV资源(可能要🪜)1",
+      "name": "影视合集8",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -297,7 +297,7 @@
     },
     {
       "key": "ddzy",
-      "name": "🔞┃大地av(可能要🪜)1",
+      "name": "影视合集9",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
       "playUrl": "https://play.dadiapi.com/watch?url=",
@@ -307,7 +307,7 @@
     },
     {
       "key": "pgxdy",
-      "name": "🔞┃PGX电影(可能要🪜)1",
+      "name": "影视合集10",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -316,7 +316,7 @@
     },
     {
       "key": "fanhzy",
-      "name": "🔞┃番号资源(可能要🪜)1",
+      "name": "影视合集11",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -325,7 +325,7 @@
     },
     {
       "key": "xrbsp.com",
-      "name": "🔞┃成人66(可能要🪜)1",
+      "name": "影视合集12",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "quickSearch": 1,
@@ -334,7 +334,7 @@
     },
     {
       "key": "ms4nii",
-      "name": "🔞┃美少女资源(可能要🪜)1",
+      "name": "影视合集13",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
