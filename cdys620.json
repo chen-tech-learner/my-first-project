@@ -287,47 +287,6 @@
       "filterable": 0
     },
     {
-      "key": "ttzyuan",
-      "name": "🔞┃探探资源(可能要🪜)1",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*AIvin",
-      "name": "🔞┃AIvin(可能要🪜)1",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "kkzy.me",
-      "name": "🔞┃成人51(可能要🪜)1",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "18jiaav",
-      "name": "🔞┃JAV名优(可能要🪜)1",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "afasu",
-      "name": "🔞┃小湿妹资源(可能要🪜)1",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "KpgxdyE",
       "name": "🔞┃黄AV资源(可能要🪜)1",
       "type": 0,
@@ -354,24 +313,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "zp128",
-      "name": "🔞┃鲨鱼影视(可能要🪜)1",
-      "type": 0,
-      "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zp100_2",
-      "name": "乐播🔞18+1",
-      "type": 0,
-      "api": "http://lbapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "fanhzy",
