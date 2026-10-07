@@ -1,0 +1,94 @@
+﻿{
+    "sites": [
+        {
+            "key": "okzy",
+            "name": "OK资源网",
+            "api": "shturl.cc/beqHCXEWXE7pqmr1L2PTvSS8n1gF9L"
+        },
+        {
+            "key": "zdz",
+            "name": "最大资源网",
+            "api": "http://www.zdziyuan.com/inc/api.php"
+        },
+        {
+            "key": "wolong",
+            "name": "卧龙影视",
+            "api": "http://cj.wlzy.tv/inc/api_mac.php"
+        },
+        {
+            "key": "8y",
+            "name": "八戒资源网",
+            "api": "http://cj.bajiecaiji.com/inc/api.php"
+        },
+        {
+            "key": "1886",
+            "name": "1886资源网",
+            "api": "http://cj.1886zy.co/inc/api.php"
+        },
+        {
+            "key": "33u",
+            "name": "33u资源网",
+            "api": "http://v.1988cj.com/inc/api.php"
+        },
+        {
+            "key": "m77",
+            "name": "看看资源网",
+            "api": "http://caiji.mb77.vip/inc/api.php"
+        },
+        {
+            "key": "605",
+            "name": "605资源网",
+            "api": "http://www.605zy.co/inc/api.php"
+        },
+        {
+            "key": "mh",
+            "name": "麻花资源网",
+            "api": "https://www.mhapi123.com/inc/api_all.php"
+        },
+        {
+            "key": "ky",
+            "name": "快影资源网",
+            "api": "http://cj.kuaiyingzy.com/api.php/kyyun/vod/at/xml"
+        },
+        {
+            "key": "kuyun",
+            "name": "酷云资源网",
+            "api": "http://caiji.kuyun98.com/inc/ldg_api.php"
+        },
+        {
+            "key": "123",
+            "name": "123资源网",
+            "api": "http://www.123ku.com/inc/api.php"
+        },
+        {
+            "key": "bbts",
+            "name": "永久资源网",
+            "api": "http://v.bbtsv.com/inc/api.php"
+        },
+        {
+            "key": "gq",
+            "name": "高清资源网",
+            "api": "http://cj.gaoqingziyuan.com/inc/api.php"
+        },
+        {
+            "key": "leduo",
+            "name": "乐多资源网",
+            "api": "shturl.cc/hhwXRdO0k0LF6v3XhT9binkI"
+        },
+        {
+            "key": "666",
+            "name": "酷猫资源网",
+            "api": "http://api.666zy.com/inc/api.php"
+        },
+        {
+            "key": "kbzy",
+            "name": "佳丽资源网",
+            "api": "http://api.kbzyapi.com/inc/api.php/vod/at/xml"
+        },
+        {
+            "key": "jialix",
+            "name": "123",
+            "api": "http://jialixx.com/api.php/provide.api"
+        }
+    ]
+}
