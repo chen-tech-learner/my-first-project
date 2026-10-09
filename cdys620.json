@@ -499,7 +499,7 @@
       "name": "📆 全网｜电视直播📆4",
       "type": "0",
       "pass": true,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/clh-bhj/cd/main/cdfy.txt",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/clh-bhj/cd/main/src/assets/bin/.cache/cdfy.rc",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
