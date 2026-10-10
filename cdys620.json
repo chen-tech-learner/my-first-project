@@ -514,12 +514,8 @@
 	 {
       "name": "📆 全网｜电视直播📆6",
       "url": "https://aya-hdou.pages.dev/live.m3u"
-    },
-   {
-      "name": "📆 全网｜电视直播📆7",
-      "url": "https://aya-hdou.pages.dev/live.m3u"
     }
-  ],
+    ],
   "doh": [
     {
       "name": "Google",
