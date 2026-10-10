@@ -510,6 +510,14 @@
       "url": "https://gh-proxy.org/raw.githubusercontent.com/jia070310/lemonTV/main/iptv-fe.m3u",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
+    },
+	 {
+      "name": 📆 全网｜电视直播📆6,
+      "url": "https://aya-hdou.pages.dev/live.m3u"
+    },
+   {
+      "name": 📆 全网｜电视直播📆6,
+      "url": "https://aya-hdou.pages.dev/live.m3u"
     }
   ],
   "doh": [
