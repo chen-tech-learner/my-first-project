@@ -522,8 +522,16 @@
 	  {
       "name": "📆 全网｜电视直播📆7",
       "url": "https://aya-hdou.pages.dev/live.m3u"
+    },
+	 {
+      "name": "📆 全网｜电视直播📆8",
+      "type": "0",
+      "pass": true,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/zheng197600/tvbox/main/tv/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "Logo": "https://epg.v1.mk/Logo/{name}.png"
     }
-    ],
+  ],
   "doh": [
     {
       "name": "Google",
