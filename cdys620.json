@@ -469,21 +469,21 @@
       "name": "📆 全网｜电视组播📆",
       "type": "0",
       "pass": true,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
     {
       "name": "📆 全网｜电视直播📆播1",
       "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/dd/yw.m3u",
+      "url": "https://gitee.com/yuweirong6684/tv-live-streaming-source/raw/master/abc.txt",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
     {
       "name": "📆 全网｜电视直播📆2",
       "type": 0,
-      "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs1.txt",
+      "url": "https://cdn.jsdelivr.net/gh/bang359/dsj@main/dsjcs1.txt",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
@@ -499,7 +499,7 @@
       "name": "📆 全网｜电视直播📆4",
       "type": "0",
       "pass": true,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/clh-bhj/cd/main/src/assets/bin/.cache/cdfy.rc",
+      "url": "https://cdn.jsdelivr.net/gh/tianze889/dstvupn@main/tvupan.txt",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
@@ -507,7 +507,7 @@
       "name": "📆 全网｜电视直播📆5",
       "type": "0",
       "pass": true,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/jia070310/lemonTV/main/iptv-fe.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/jia070310/lemonTV@main/iptv-fe.m3u",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
@@ -515,7 +515,7 @@
       "name": "📆 全网｜电视直播📆6",
       "type": "0",
       "pass": true,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/dushuboy/tvbox-live/main/hlive.txt",
+      "url": "https://cdn.jsdelivr.net/gh/dushuboy/tvbox-live@main/hlive.txt",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
@@ -527,7 +527,7 @@
       "name": "📆 全网｜电视直播📆8",
       "type": "0",
       "pass": true,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/zheng197600/tvbox/main/tv/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zheng197600/tvbox@main/tv/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     }
