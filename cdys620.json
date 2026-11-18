@@ -519,10 +519,14 @@
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "Logo": "https://epg.v1.mk/Logo/{name}.png"
     },
-	  {
-      "name": "📆 全网｜电视直播📆7",
-      "url": "https://aya-hdou.pages.dev/live.m3u"
-    },
+    {
+	  "name": "📆 全网｜电视直播📆7",
+      "type": "0",
+      "pass": true,
+      "url": "https://cdn.jsdelivr.net/gh/clh-bhj/cd@main/src/assets/bin/.cache/kbyp.tt",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "Logo": "https://epg.v1.mk/Logo/{name}.png"
+     },
 	 {
       "name": "📆 全网｜电视直播📆8",
       "type": "0",
